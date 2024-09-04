@@ -1,0 +1,1490 @@
+﻿_id,id,id_instansi,predikat_rb,tahun,nama_instansi
+1,1427,1010,BB,2021,"Kementerian Koordinator Bidang Politik, Hukum dan Keamanan"
+2,1431,1020,BB,2021,Kementerian Koordinator Bidang Perekonomian
+3,1402,1030,BB,2021,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan
+4,1385,1040,BB,2021,Kementerian Koordinator Bidang Kemaritiman dan Investasi Republik Indonesia
+5,1367,2010,BB,2021,Kementerian Koperasi dan Usaha Kecil dan Menengah
+6,1454,2040,BB,2021,Kementerian Badan Usaha Milik Negara
+7,1349,2050,BB,2021,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+8,1482,2060,A,2021,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+9,1318,2100,B,2021,Kementerian Pemuda Olahraga
+10,1444,2120,BB,2021,"Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
+11,1443,3001,BB,2021,Kementerian Dalam Negeri
+12,1424,3002,BB,2021,Kementerian Luar Negeri
+13,1325,3003,BB,2021,Kementerian Pertahanan
+14,1471,3004,A,2021,Kementerian Hukum dan Hak Asasi Manusia
+15,1488,3005,A,2021,Kementerian Keuangan
+16,1463,3006,BB,2021,Kementerian Pertanian
+17,1468,3008,BB,2021,Kementerian Energi dan Sumber Daya Mineral
+18,1461,3009,BB,2021,Kementerian Perhubungan
+19,1449,3010,BB,2021,Kementerian Pendidikan dan Kebudayaan
+20,1465,3011,BB,2021,Kementerian Kesehatan
+21,1382,3012,BB,2021,Kementerian Agama
+22,1377,3013,BB,2021,Kementerian Ketenagakerjaan
+23,1365,3014,BB,2021,Kementerian Sosial
+24,1387,3015,BB,2021,Kementerian Lingkungan Hidup dan Kehutanan
+25,1422,3016,BB,2021,Kementerian Kelautan dan Perikanan
+26,1434,3018,BB,2021,Kementerian Komunikasi dan Informatika
+27,1470,3019,A,2021,Kementerian Perdagangan
+28,1459,3020,BB,2021,Kementerian Perindustrian
+29,1411,3021,BB,2021,Kementerian Pekerjaan Umum & Perumahan Rakyat
+30,1435,3022,BB,2021,Kementerian Pariwisata dan Ekonomi Kreatif
+31,1485,4001,A,2021,Kementerian Sekretariat Negara
+32,1384,4002,BB,2021,Kejaksaan Agung
+33,1462,4003,BB,2021,Badan Intelijen Negara
+34,1340,4005,BB,2021,Sekretariat Jenderal MPR
+35,1091,4007,B,2021,Mahkamah Agung RI
+36,1489,4008,A,2021,Badan Pemeriksa Keuangan 
+37,1093,4010,B,2021,Badan Siber dan Sandi Negara
+38,1390,4011,BB,2021,Badan Kepegawaian Negara
+39,1466,4012,BB,2021,Lembaga Administrasi Negara 
+40,1447,4016,BB,2021,Badan Pusat Statistik 
+41,1480,4017,A,2021,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional
+42,1450,4018,BB,2021,Arsip Nasional Republik Indonesia 
+43,1451,4019,BB,2021,Badan Informasi Geospasial
+44,1374,4020,BB,2021,Badan Kependudukan dan KB Nasional
+45,1373,4021,BB,2021,Badan Koordinasi Penanaman Modal 
+46,1484,4023,A,2021,Badan Pengawasan Keuangan dan Pembangunan
+47,1381,4024,BB,2021,Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional
+48,1408,4025,BB,2021,Perpustakaan Nasional RI
+49,1342,4026,BB,2021,Sekretariat Jenderal DPR
+50,1380,4027,BB,2021,Badan Standardisasi Nasional 
+51,1421,4028,BB,2021,Badan Pengawas Tenaga Nuklir 
+52,1341,4029,BB,2021,Sekretariat Jenderal DPD
+53,1477,4031,A,2021,Badan Pengawas Obat dan Makanan
+54,1303,4032,B,2021,Lembaga Ketahanan Nasional RI
+55,1416,4033,BB,2021,Kepolisian Negara RI
+56,1338,4034,BB,2021,Tentara Nasional Indonesia
+57,1372,4035,BB,2021,"Badan Meteorologi, Klimatologi dan Geofisika"
+58,1339,4036,BB,2021,Sekretariat Kabinet 
+59,1370,4040,BB,2021,Badan Narkotika Nasional
+60,1429,4041,BB,2021,Komisi Pemilihan Umum
+61,1375,4043,BB,2021,Badan Nasional Penanggulangan Bencana
+62,1322,4044,BB,2021,Komisi Nasional Hak Asasi Manusia
+63,1092,4046,B,2021,Mahkamah Konstitusi
+64,1430,4047,BB,2021,Komisi Pemberantasan Korupsi
+65,1428,4049,BB,2021,Komisi Yudisial
+66,913,4052,CC,2021,Badan Keamanan Laut
+67,1448,4053,BB,2021,Badan Nasional Pencarian Dan Pertolongan
+68,1396,4054,BB,2021,Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+69,1453,4055,BB,2021,Pusat Pelaporan dan Analisis Transaksi Keuangan
+70,1095,4056,B,2021,Ombudsman Republik Indonesia
+71,1344,4057,BB,2021,Televisi Republik Indonesia
+72,1452,4058,BB,2021,Radio Republik Indonesia
+73,1171,4059,B,2021,Badan Nasional Pengelola Perbatasan
+74,1371,4060,BB,2021,Badan Nasional Penanggulangan Terorisme
+75,1323,4112,BB,2021,Komisi Aparatur Sipil Negara
+76,1343,4222,BB,2021,Dewan Ketahanan Pangan 
+77,1094,4502,B,2021,Lembaga Perlindungan Saksi Dan Korban
+78,1037,4609,B,2021,Badan Pembinaan Ideologi Pancasila
+79,1378,4627,BB,2021,Badan Perlindungan Pekerja Migran Indonesia
+80,1483,4634,A,2021,Dewan Kehormatan Penyelenggara Pemilu
+81,1168,5100,B,2021,Pemerintah Provinsi Aceh
+82,505,5101,C,2021,Pemerintah Kab. Aceh Besar
+83,831,5102,CC,2021,Pemerintah Kab. Pidie
+84,684,5103,C,2021,Pemerintah Kab. Aceh Utara
+85,657,5104,C,2021,Pemerintah Kab. Aceh Timur
+86,522,5105,C,2021,Pemerintah Kab. Aceh Selatan
+87,983,5106,CC,2021,Pemerintah Kab. Aceh Barat
+88,585,5107,C,2021,Pemerintah Kab. Aceh Tengah
+89,719,5110,CC,2021,Pemerintah Kab. Bireuen
+90,683,5111,C,2021,Pemerintah Kab. Aceh Singkil
+91,619,5112,C,2021,Pemerintah Kab. Aceh Barat Daya
+92,670,5114,C,2021,Pemerintah Kab. Aceh Tamiang
+93,569,5116,C,2021,Pemerintah Kab. Aceh Jaya
+94,782,5117,CC,2021,Pemerintah Kab. Bener Meriah
+95,632,5118,C,2021,Pemerintah Kab. Pidie Jaya
+96,460,5171,C,2021,Pemerintah Kota Sabang
+97,1069,5172,B,2021,Pemerintah Kota Banda Aceh
+98,545,5173,C,2021,Pemerintah Kota Langsa
+99,547,5174,C,2021,Pemerintah Kota Lhokseumawe
+100,567,5175,C,2021,Pemerintah Kota Subulussalam
+101,1121,5200,B,2021,Pemerintah Provinsi Sumatera Utara
+102,788,5201,CC,2021,Pemerintah Kab. Deli Serdang
+103,533,5202,C,2021,Pemerintah Kab. Karo
+104,620,5203,C,2021,Pemerintah Kab. Langkat
+105,477,5205,C,2021,Pemerintah Kab. Simalungun
+106,646,5206,C,2021,Pemerintah Kab. Labuhanbatu
+107,572,5207,C,2021,Pemerintah Kab. Dairi
+108,617,5208,C,2021,Pemerintah Kab. Tapanuli Utara
+109,581,5209,C,2021,Pemerintah Kab. Tapanuli Selatan
+110,750,5210,CC,2021,Pemerintah Kab. Asahan
+111,594,5211,C,2021,Pemerintah Kab. Nias
+112,513,5212,C,2021,Pemerintah Kab. Toba Samosir
+113,552,5213,C,2021,Pemerintah Kab. Mandailing Natal
+114,473,5214,C,2021,Pemerintah Kab. Nias Selatan
+115,759,5215,CC,2021,Pemerintah Kab. Humbang Hasundutan
+116,560,5216,C,2021,Pemerintah Kab. Pakpak Bharat
+117,660,5217,C,2021,Pemerintah Kab. Samosir
+118,886,5218,CC,2021,Pemerintah Kab. Serdang Bedagai
+119,464,5219,C,2021,Pemerintah Kab. Padang Lawas
+120,577,5220,C,2021,Pemerintah Kab. Padang Lawas Utara
+121,602,5221,C,2021,Pemerintah Kab. Batubara
+122,451,5222,C,2021,Pemerintah Kab. Labuhanbatu Selatan
+123,455,5223,C,2021,Pemerintah Kab. Labuhanbatu Utara
+124,479,5224,C,2021,Pemerintah Kab. Nias Barat
+125,813,5271,CC,2021,Pemerintah Kota Medan
+126,988,5272,CC,2021,Pemerintah Kota Tebing Tinggi
+127,524,5273,C,2021,Pemerintah Kota Binjai
+128,508,5274,C,2021,Pemerintah Kota Pematang Siantar
+129,512,5276,C,2021,Pemerintah Kota Sibolga
+130,655,5277,C,2021,Pemerintah Kota Padangsidimpuan
+131,626,5278,C,2021,Pemerintah Kota Gunung Sitoli
+132,1260,5300,B,2021,Pemerintah Provinsi Riau
+133,893,5301,CC,2021,Pemerintah Kab. Kampar
+134,648,5302,C,2021,Pemerintah Kab. Bengkalis
+135,1123,5304,B,2021,Pemerintah Kab. Indragiri Hulu
+136,1053,5305,B,2021,Pemerintah Kab. Indragiri Hilir
+137,674,5306,C,2021,Pemerintah Kab. Pelalawan
+138,653,5307,C,2021,Pemerintah Kab. Rokan Hulu
+139,867,5308,CC,2021,Pemerintah Kab. Rokan Hilir
+140,880,5309,CC,2021,Pemerintah Kab. Siak
+141,739,5312,CC,2021,Pemerintah Kab. Kuantan Singingi
+142,611,5313,C,2021,Pemerintah Kab. Kepulauan Meranti
+143,1132,5371,B,2021,Pemerintah Kota Pekanbaru
+144,724,5373,CC,2021,Pemerintah Kota Dumai
+145,1300,5400,B,2021,Pemerintah Provinsi Sumatera Barat
+146,795,5401,CC,2021,Pemerintah Kab. Agam
+147,830,5402,CC,2021,Pemerintah Kab. Pasaman
+148,658,5403,C,2021,Pemerintah Kab. Limapuluh Kota
+149,1012,5404,CC,2021,Pemerintah Kab. Solok
+150,1002,5405,CC,2021,Pemerintah Kab. Padang Pariaman
+151,917,5406,CC,2021,Pemerintah Kab. Pesisir Selatan
+152,1158,5407,B,2021,Pemerintah Kab. Tanah Datar
+153,663,5408,C,2021,Pemerintah Kab. Sijunjung
+154,654,5409,C,2021,Pemerintah Kab. Kep. Mentawai
+155,504,5410,C,2021,Pemerintah Kab. Solok Selatan
+156,600,5411,C,2021,Pemerintah Kab. Dharmasraya
+157,767,5412,CC,2021,Pemerintah Kab. Pasaman Barat
+158,1215,5471,B,2021,Pemerintah Kota Bukittinggi
+159,888,5472,CC,2021,Pemerintah Kota Padang Panjang
+160,824,5473,CC,2021,Pemerintah Kota Sawahlunto
+161,1060,5474,B,2021,Pemerintah Kota Solok
+162,1327,5475,BB,2021,Pemerintah Kota Padang
+163,1209,5476,B,2021,Pemerintah Kota Payakumbuh
+164,973,5477,CC,2021,Pemerintah Kota Pariaman
+165,1142,5500,B,2021,Pemerintah Provinsi Jambi
+166,1195,5501,B,2021,Pemerintah Kab. Batang Hari
+167,772,5502,CC,2021,Pemerintah Kab. Tanjung Jabung Barat
+168,738,5503,CC,2021,Pemerintah Kab. Bungo
+169,1003,5504,CC,2021,Pemerintah Kab. Merangin
+170,548,5505,C,2021,Pemerintah Kab. Kerinci
+171,939,5506,CC,2021,Pemerintah Kab. Sarolangun
+172,551,5507,C,2021,Pemerintah Kab. Tebo
+173,501,5508,C,2021,Pemerintah Kab. Muaro Jambi
+174,538,5509,C,2021,Pemerintah Kab. Tanjung Jabung Timur
+175,1059,5571,B,2021,Pemerintah Kota Jambi
+176,921,5572,CC,2021,Pemerintah Kota Sungai Penuh
+177,1087,5600,B,2021,Pemerintah Provinsi Sumatera Selatan
+178,762,5601,CC,2021,Pemerintah Kab. Musi Banyuasin
+179,445,5602,C,2021,Pemerintah Kab. Ogan Komering Ulu
+180,1004,5603,CC,2021,Pemerintah Kab. Muara Enim
+181,636,5604,C,2021,Pemerintah Kab. Lahat
+182,817,5605,CC,2021,Pemerintah Kab. Musi Rawas
+183,597,5606,C,2021,Pemerintah Kab. Ogan Komering Ilir
+184,774,5607,CC,2021,Pemerintah Kab. Banyuasin
+185,450,5608,C,2021,Pemerintah Kab. Ogan Komering Ulu Timur
+186,438,5610,C,2021,Pemerintah Kab. Ogan Ilir
+187,447,5611,C,2021,Pemerintah Kab. Empat Lawang
+188,430,5612,C,2021,Pemerintah Kab. Musi Rawas Utara
+189,985,5671,CC,2021,Pemerintah Kota Palembang
+190,519,5672,C,2021,Pemerintah Kota Pagar Alam
+191,866,5673,CC,2021,Pemerintah Kota Lubuk Linggau
+192,437,5674,C,2021,Pemerintah Kota Prabumulih
+193,434,5675,C,2021,Pemerintah Kab. Penukal Abab Lematang Ilir
+194,1271,5700,B,2021,Pemerintah Provinsi Kep. Bangka Belitung
+195,1114,5701,B,2021,Pemerintah Kab. Bangka
+196,871,5702,CC,2021,Pemerintah Kab. Belitung
+197,672,5703,C,2021,Pemerintah Kab. Bangka Barat
+198,1299,5704,B,2021,Pemerintah Kab. Bangka Tengah
+199,1090,5705,B,2021,Pemerintah Kab. Bangka Selatan
+200,881,5706,CC,2021,Pemerintah Kab. Belitung Timur
+201,1143,5771,B,2021,Pemerintah Kota Pangkal Pinang
+202,1175,5800,B,2021,Pemerintah Provinsi Bengkulu
+203,792,5801,CC,2021,Pemerintah Kab. Bengkulu Utara
+204,525,5802,C,2021,Pemerintah Kab. Bengkulu Selatan
+205,721,5803,CC,2021,Pemerintah Kab. Rejang Lebong
+206,616,5804,C,2021,Pemerintah Kab. Kaur
+207,554,5805,C,2021,Pemerintah Kab. Seluma
+208,596,5806,C,2021,Pemerintah Kab. Mukomuko
+209,678,5807,C,2021,Pemerintah Kab. Kepahiang
+210,855,5808,CC,2021,Pemerintah Kab. Lebong
+211,848,5809,CC,2021,Pemerintah Kab. Bengkulu Tengah
+212,818,5871,CC,2021,Pemerintah Kota Bengkulu
+213,979,5900,CC,2021,Pemerintah Provinsi Lampung
+214,710,5901,CC,2021,Pemerintah Kab. Lampung Selatan
+215,837,5902,CC,2021,Pemerintah Kab. Lampung Tengah
+216,492,5903,C,2021,Pemerintah Kab. Lampung Utara
+217,896,5904,CC,2021,Pemerintah Kab. Lampung Barat
+218,779,5905,CC,2021,Pemerintah Kab. Tulang Bawang
+219,957,5906,CC,2021,Pemerintah Kab. Tanggamus
+220,764,5907,CC,2021,Pemerintah Kab. Way Kanan
+221,799,5908,CC,2021,Pemerintah Kab. Lampung Timur
+222,681,5909,C,2021,Pemerintah Kab. Pesawaran
+223,570,5910,C,2021,Pemerintah Kab. Tulang Bawang Barat
+224,889,5911,CC,2021,Pemerintah Kab. Pringsewu
+225,528,5912,C,2021,Pemerintah Kab. Mesuji
+226,454,5913,C,2021,Pemerintah Kab. Pesisir Barat
+227,1096,5971,B,2021,Pemerintah Kota Metro
+228,990,5972,CC,2021,Pemerintah Kota Bandar Lampung
+229,1457,6000,BB,2021,Pemerintah Provinsi DKI Jakarta
+230,1458,6100,BB,2021,Pemerintah Provinsi Jawa Barat
+231,1268,6101,B,2021,Pemerintah Kab. Bogor
+232,1137,6102,B,2021,Pemerintah Kab. Sukabumi
+233,1044,6103,B,2021,Pemerintah Kab. Cianjur
+234,977,6104,CC,2021,Pemerintah Kab. Bekasi
+235,1040,6105,B,2021,Pemerintah Kab. Karawang
+236,1102,6106,B,2021,Pemerintah Kab. Purwakarta
+237,978,6107,CC,2021,Pemerintah Kab. Subang
+238,1165,6108,B,2021,Pemerintah Kab. Bandung
+239,1295,6109,B,2021,Pemerintah Kab. Sumedang
+240,1240,6110,B,2021,Pemerintah Kab. Garut
+241,847,6111,CC,2021,Pemerintah Kab. Tasikmalaya
+242,1001,6112,CC,2021,Pemerintah Kab. Ciamis
+243,935,6113,CC,2021,Pemerintah Kab. Cirebon
+244,875,6114,CC,2021,Pemerintah Kab. Kuningan
+245,989,6115,CC,2021,Pemerintah Kab. Indramayu
+246,940,6116,CC,2021,Pemerintah Kab. Majalengka
+247,962,6117,CC,2021,Pemerintah Kab. Bandung Barat
+248,840,6118,CC,2021,Pemerintah Kab. Pangandaran
+249,1345,6171,BB,2021,Pemerintah Kota Bandung
+250,1265,6172,B,2021,Pemerintah Kota Bogor
+251,1270,6173,B,2021,Pemerintah Kota Sukabumi
+252,1174,6174,B,2021,Pemerintah Kota Cirebon
+253,1192,6175,B,2021,Pemerintah Kota Bekasi
+254,1163,6176,B,2021,Pemerintah Kota Depok
+255,1016,6177,B,2021,Pemerintah Kota Cimahi
+256,1023,6178,B,2021,Pemerintah Kota Tasikmalaya
+257,947,6179,CC,2021,Pemerintah Kota Banjar
+258,1162,6200,B,2021,Pemerintah Provinsi Banten
+259,763,6201,CC,2021,Pemerintah Kab. Serang
+260,832,6202,CC,2021,Pemerintah Kab. Pandeglang
+261,1099,6203,B,2021,Pemerintah Kab. Lebak
+262,991,6204,CC,2021,Pemerintah Kab. Tangerang
+263,1151,6271,B,2021,Pemerintah Kota Tangerang
+264,650,6272,C,2021,Pemerintah Kota Cilegon
+265,746,6273,CC,2021,Pemerintah Kota Serang
+266,1173,6274,B,2021,Pemerintah Kota Tangerang Selatan
+267,1473,6300,A,2021,Pemerintah Provinsi D.I. Yogyakarta
+268,1399,6301,BB,2021,Pemerintah Kab. Bantul
+269,1403,6302,BB,2021,Pemerintah Kab. Sleman
+270,1298,6303,B,2021,Pemerintah Kab. Gunungkidul
+271,1360,6304,BB,2021,Pemerintah Kab. Kulon Progo
+272,1376,6371,BB,2021,Pemerintah Kota Yogyakarta
+273,1438,6400,BB,2021,Pemerintah Provinsi Jawa Tengah
+274,1025,6401,B,2021,Pemerintah Kab. Semarang
+275,1187,6402,B,2021,Pemerintah Kab. Kendal
+276,1238,6403,B,2021,Pemerintah Kab. Demak
+277,1198,6404,B,2021,Pemerintah Kab. Grobogan
+278,1203,6405,B,2021,Pemerintah Kab. Pekalongan
+279,1182,6406,B,2021,Pemerintah Kab. Batang
+280,1194,6407,B,2021,Pemerintah Kab. Tegal
+281,960,6408,CC,2021,Pemerintah Kab. Brebes
+282,1156,6409,B,2021,Pemerintah Kab. Pati
+283,1262,6410,B,2021,Pemerintah Kab. Kudus
+284,1152,6411,B,2021,Pemerintah Kab. Pemalang
+285,982,6412,CC,2021,Pemerintah Kab. Jepara
+286,905,6413,CC,2021,Pemerintah Kab. Rembang
+287,948,6414,CC,2021,Pemerintah Kab. Blora
+288,1330,6415,BB,2021,Pemerintah Kab. Banyumas
+289,1304,6416,B,2021,Pemerintah Kab. Cilacap
+290,1228,6417,B,2021,Pemerintah Kab. Purbalingga
+291,1024,6418,B,2021,Pemerintah Kab. Banjarnegara
+292,1103,6419,B,2021,Pemerintah Kab. Magelang
+293,1172,6420,B,2021,Pemerintah Kab. Temanggung
+294,1076,6421,B,2021,Pemerintah Kab. Wonosobo
+295,1214,6422,B,2021,Pemerintah Kab. Purworejo
+296,1005,6423,CC,2021,Pemerintah Kab. Kebumen
+297,963,6424,CC,2021,Pemerintah Kab. Klaten
+298,1176,6425,B,2021,Pemerintah Kab. Boyolali
+299,1049,6426,B,2021,Pemerintah Kab. Sragen
+300,890,6427,CC,2021,Pemerintah Kab. Sukoharjo
+301,996,6428,CC,2021,Pemerintah Kab. Karanganyar
+302,1207,6429,B,2021,Pemerintah Kab. Wonogiri
+303,1329,6471,BB,2021,Pemerintah Kota Semarang
+304,1223,6472,B,2021,Pemerintah Kota Salatiga
+305,1316,6473,B,2021,Pemerintah Kota Pekalongan
+306,1245,6474,B,2021,Pemerintah Kota Tegal
+307,1253,6475,B,2021,Pemerintah Kota Magelang
+308,1309,6476,B,2021,Pemerintah Kota Surakarta
+309,1409,6500,BB,2021,Pemerintah Provinsi Jawa Timur
+310,1313,6501,B,2021,Pemerintah Kab. Gresik
+311,1189,6502,B,2021,Pemerintah Kab. Mojokerto
+312,1264,6503,B,2021,Pemerintah Kab. Sidoarjo
+313,1074,6504,B,2021,Pemerintah Kab. Jombang
+314,965,6505,CC,2021,Pemerintah Kab. Sampang
+315,1184,6506,B,2021,Pemerintah Kab. Pamekasan
+316,1131,6507,B,2021,Pemerintah Kab. Sumenep
+317,926,6508,CC,2021,Pemerintah Kab. Bangkalan
+318,1234,6509,B,2021,Pemerintah Kab. Bondowoso
+319,1306,6510,B,2021,Pemerintah Kab. Situbondo
+320,1423,6511,BB,2021,Pemerintah Kab. Banyuwangi
+321,906,6512,CC,2021,Pemerintah Kab. Jember
+322,1288,6513,B,2021,Pemerintah Kab. Malang
+323,1170,6514,B,2021,Pemerintah Kab. Pasuruan
+324,1145,6515,B,2021,Pemerintah Kab. Probolinggo
+325,994,6516,CC,2021,Pemerintah Kab. Lumajang
+326,1169,6517,B,2021,Pemerintah Kab. Kediri
+327,1231,6518,B,2021,Pemerintah Kab. Tulungagung
+328,967,6519,CC,2021,Pemerintah Kab. Nganjuk
+329,1272,6520,B,2021,Pemerintah Kab. Trenggalek
+330,1111,6521,B,2021,Pemerintah Kab. Blitar
+331,1112,6522,B,2021,Pemerintah Kab. Madiun
+332,1312,6523,B,2021,Pemerintah Kab. Ngawi
+333,1105,6524,B,2021,Pemerintah Kab. Magetan
+334,1208,6525,B,2021,Pemerintah Kab. Ponorogo
+335,1282,6526,B,2021,Pemerintah Kab. Pacitan
+336,1065,6527,B,2021,Pemerintah Kab. Bojonegoro
+337,1075,6528,B,2021,Pemerintah Kab. Tuban
+338,1283,6529,B,2021,Pemerintah Kab. Lamongan
+339,1441,6571,BB,2021,Pemerintah Kota Surabaya
+340,1210,6572,B,2021,Pemerintah Kota Mojokerto
+341,1326,6573,BB,2021,Pemerintah Kota Malang
+342,1154,6574,B,2021,Pemerintah Kota Pasuruan
+343,1257,6575,B,2021,Pemerintah Kota Probolinggo
+344,1275,6576,B,2021,Pemerintah Kota Blitar
+345,1055,6577,B,2021,Pemerintah Kota Kediri
+346,1230,6578,B,2021,Pemerintah Kota Madiun
+347,1191,6579,B,2021,Pemerintah Kota Batu
+348,1291,6600,B,2021,Pemerintah Provinsi Kalimantan Barat
+349,1073,6601,B,2021,Pemerintah Kab. Sambas
+350,802,6602,CC,2021,Pemerintah Kab. Sanggau
+351,740,6603,CC,2021,Pemerintah Kab. Sintang
+352,1110,6604,B,2021,Pemerintah Kab. Mempawah
+353,920,6605,CC,2021,Pemerintah Kab. Kapuas Hulu
+354,790,6606,CC,2021,Pemerintah Kab. Ketapang
+355,730,6607,CC,2021,Pemerintah Kab. Bengkayang
+356,1080,6608,B,2021,Pemerintah Kab. Landak
+357,723,6609,CC,2021,Pemerintah Kab. Melawi
+358,861,6610,CC,2021,Pemerintah Kab. Sekadau
+359,785,6611,CC,2021,Pemerintah Kab. Kubu Raya
+360,706,6612,CC,2021,Pemerintah Kab. Kayong Utara
+361,1269,6671,B,2021,Pemerintah Kota Pontianak
+362,1041,6672,B,2021,Pemerintah Kota Singkawang
+363,1009,6700,CC,2021,Pemerintah Provinsi Kalimantan Tengah
+364,943,6701,CC,2021,Pemerintah Kab. Kapuas
+365,624,6702,C,2021,Pemerintah Kab. Barito Utara
+366,744,6703,CC,2021,Pemerintah Kab. Barito Selatan
+367,810,6704,CC,2021,Pemerintah Kab. Kotawaringin Timur
+368,907,6705,CC,2021,Pemerintah Kab. Kotawaringin Barat
+369,565,6706,C,2021,Pemerintah Kab. Pulang Pisau
+370,667,6707,C,2021,Pemerintah Kab. Gunung Mas
+371,766,6708,CC,2021,Pemerintah Kab. Lamandau
+372,571,6709,C,2021,Pemerintah Kab. Sukamara
+373,539,6710,C,2021,Pemerintah Kab. Murung Raya
+374,659,6711,C,2021,Pemerintah Kab. Katingan
+375,1032,6712,B,2021,Pemerintah Kab. Seruyan
+376,1286,6800,B,2021,Pemerintah Provinsi Kalimantan Selatan
+377,856,6801,CC,2021,Pemerintah Kab. Banjar
+378,1028,6802,B,2021,Pemerintah Kab. Tanah Laut
+379,853,6803,CC,2021,Pemerintah Kab. Tapin
+380,1242,6804,B,2021,Pemerintah Kab. Hulu Sungai Selatan
+381,812,6805,CC,2021,Pemerintah Kab. Hulu Sungai Tengah
+382,850,6806,CC,2021,Pemerintah Kab. Barito Kuala
+383,912,6807,CC,2021,Pemerintah Kab. Tabalong
+384,937,6808,CC,2021,Pemerintah Kab. Kotabaru
+385,781,6809,CC,2021,Pemerintah Kab. Hulu Sungai Utara
+386,941,6810,CC,2021,Pemerintah Kab. Tanah Bumbu
+387,872,6811,CC,2021,Pemerintah Kab. Balangan
+388,1315,6871,B,2021,Pemerintah Kota Banjarmasin
+389,1134,6872,B,2021,Pemerintah Kota Banjarbaru
+390,1287,6900,B,2021,Pemerintah Provinsi Kalimantan Timur
+391,1098,6901,B,2021,Pemerintah Kab. Kutai Kartanegara
+392,911,6902,CC,2021,Pemerintah Kab. Paser
+393,835,6904,CC,2021,Pemerintah Kab. Berau
+394,756,6907,CC,2021,Pemerintah Kab. Kutai Barat
+395,574,6908,C,2021,Pemerintah Kab. Kutai Timur
+396,1017,6910,B,2021,Pemerintah Kab. Penajam Paser Utara
+397,555,6912,C,2021,Pemerintah Kab. Mahakam Ulu
+398,1042,6971,B,2021,Pemerintah Kota Samarinda
+399,1274,6972,B,2021,Pemerintah Kota Balikpapan
+400,1212,6973,B,2021,Pemerintah Kota Bontang
+401,1022,7000,B,2021,Pemerintah Provinsi Sulawesi Utara
+402,486,7001,C,2021,Pemerintah Kab. Minahasa
+403,709,7002,CC,2021,Pemerintah Kab. Bolaang Mongondow
+404,727,7003,CC,2021,Pemerintah Kab. Kepulauan Sangihe
+405,488,7004,C,2021,Pemerintah Kab. Minahasa Selatan
+406,495,7005,C,2021,Pemerintah Kab. Kepulauan Talaud
+407,457,7006,C,2021,Pemerintah Kab. Minahasa Utara
+408,467,7007,C,2021,Pemerintah Kab. Bolaang Mongondow Utara
+409,842,7008,CC,2021,Pemerintah Kab. Siau Tagulandang Biaro
+410,575,7009,C,2021,Pemerintah Kab. Minahasa Tenggara
+411,811,7012,CC,2021,Pemerintah Kab. Bolaang Mongondow Selatan
+412,487,7013,C,2021,Pemerintah Kab. Bolaang Mongondow Timur
+413,1159,7071,B,2021,Pemerintah Kota Manado
+414,876,7072,CC,2021,Pemerintah Kota Bitung
+415,944,7073,CC,2021,Pemerintah Kota Tomohon
+416,950,7074,CC,2021,Pemerintah Kota KotaMobagu
+417,1233,7100,B,2021,Pemerintah Provinsi Gorontalo
+418,1124,7101,B,2021,Pemerintah Kab. Gorontalo
+419,878,7102,CC,2021,Pemerintah Kab. Boalemo
+420,1067,7103,B,2021,Pemerintah Kab. Pohuwato
+421,968,7104,CC,2021,Pemerintah Kab. Bone Bolango
+422,735,7105,CC,2021,Pemerintah Kab. Gorontalo Utara
+423,1157,7171,B,2021,Pemerintah Kota Gorontalo
+424,1148,7200,B,2021,Pemerintah Provinsi Sulawesi Tengah
+425,805,7201,CC,2021,Pemerintah Kab. Poso
+426,647,7203,C,2021,Pemerintah Kab. Tolitoli
+427,1241,7204,B,2021,Pemerintah Kab. Banggai
+428,598,7205,C,2021,Pemerintah Kab. Buol
+429,578,7206,C,2021,Pemerintah Kab. Morowali
+430,506,7208,C,2021,Pemerintah Kab. Parigi Moutong
+431,733,7209,CC,2021,Pemerintah Kab. Tojo Una Una
+432,608,7210,C,2021,Pemerintah Kab. Sigi
+433,514,7211,C,2021,Pemerintah Kab. Banggai Laut
+434,498,7212,C,2021,Pemerintah Kab. Morowali Utara
+435,922,7271,CC,2021,Pemerintah Kota Palu
+436,1089,7300,B,2021,Pemerintah Provinsi Sulawesi Selatan
+437,974,7301,CC,2021,Pemerintah Kab. Pinrang
+438,924,7302,CC,2021,Pemerintah Kab. Gowa
+439,1068,7303,B,2021,Pemerintah Kab. Wajo
+440,933,7305,CC,2021,Pemerintah Kab. Bone
+441,607,7306,C,2021,Pemerintah Kab. Tana Toraja
+442,1020,7307,B,2021,Pemerintah Kab. Maros
+443,665,7309,C,2021,Pemerintah Kab. Luwu
+444,955,7310,CC,2021,Pemerintah Kab. Sinjai
+445,934,7311,CC,2021,Pemerintah Kab. Bulukumba
+446,469,7312,C,2021,Pemerintah Kab. Bantaeng
+447,708,7313,CC,2021,Pemerintah Kab. Jeneponto
+448,754,7314,CC,2021,Pemerintah Kab. Kepulauan Selayar
+449,669,7315,C,2021,Pemerintah Kab. Takalar
+450,625,7316,C,2021,Pemerintah Kab. Barru
+451,701,7317,CC,2021,Pemerintah Kab. Sidenreng Rappang
+452,696,7318,CC,2021,Pemerintah Kab. Pangkajene dan Kepulauan
+453,749,7319,CC,2021,Pemerintah Kab. Soppeng
+454,718,7321,CC,2021,Pemerintah Kab. Enrekang
+455,1026,7322,B,2021,Pemerintah Kab. Luwu Utara
+456,838,7325,CC,2021,Pemerintah Kab. Luwu Timur
+457,529,7326,C,2021,Pemerintah Kab. Toraja Utara
+458,1140,7371,B,2021,Pemerintah Kota Makassar
+459,1126,7372,B,2021,Pemerintah Kota Parepare
+460,791,7373,CC,2021,Pemerintah Kota Palopo
+461,1107,7400,B,2021,Pemerintah Provinsi Sulawesi Tenggara
+462,475,7401,C,2021,Pemerintah Kab. Konawe
+463,649,7402,C,2021,Pemerintah Kab. Buton
+464,543,7403,C,2021,Pemerintah Kab. Muna
+465,645,7404,C,2021,Pemerintah Kab. Kolaka
+466,761,7405,CC,2021,Pemerintah Kab. Konawe Selatan
+467,666,7406,C,2021,Pemerintah Kab. Kolaka Utara
+468,819,7407,CC,2021,Pemerintah Kab. Bombana
+469,530,7408,C,2021,Pemerintah Kab. Wakatobi
+470,854,7410,CC,2021,Pemerintah Kab. Buton Utara
+471,741,7411,CC,2021,Pemerintah Kab. Konawe Utara
+472,615,7412,C,2021,Pemerintah Kab. Kolaka Timur
+473,583,7413,C,2021,Pemerintah Kab. Konawe Kepulauan
+474,783,7414,CC,2021,Pemerintah Kab. Buton Selatan
+475,691,7415,CC,2021,Pemerintah Kab. Buton Tengah
+476,500,7416,C,2021,Pemerintah Kab. Muna Barat
+477,1183,7471,B,2021,Pemerintah Kota Kendari
+478,839,7472,CC,2021,Pemerintah Kota Baubau
+479,1324,7500,BB,2021,Pemerintah Provinsi Bali
+480,1129,7501,B,2021,Pemerintah Kab. Buleleng
+481,995,7502,CC,2021,Pemerintah Kab. Jembrana
+482,1052,7503,B,2021,Pemerintah Kab. Klungkung
+483,945,7504,CC,2021,Pemerintah Kab. Gianyar
+484,789,7505,CC,2021,Pemerintah Kab. Karangasem
+485,1047,7506,B,2021,Pemerintah Kab. Bangli
+486,1335,7507,BB,2021,Pemerintah Kab. Badung
+487,1130,7508,B,2021,Pemerintah Kab. Tabanan
+488,1277,7571,B,2021,Pemerintah Kota Denpasar
+489,1220,7600,B,2021,Pemerintah Provinsi NTB
+490,1190,7601,B,2021,Pemerintah Kab. Lombok Barat
+491,726,7602,CC,2021,Pemerintah Kab. Lombok Tengah
+492,472,7603,C,2021,Pemerintah Kab. Lombok Timur
+493,728,7604,CC,2021,Pemerintah Kab. Bima
+494,758,7605,CC,2021,Pemerintah Kab. Sumbawa
+495,707,7606,CC,2021,Pemerintah Kab. Dompu
+496,857,7607,CC,2021,Pemerintah Kab. Sumbawa Barat
+497,689,7608,CC,2021,Pemerintah Kab. Lombok Utara
+498,1201,7671,B,2021,Pemerintah Kota Mataram
+499,859,7672,CC,2021,Pemerintah Kota Bima
+500,1104,7700,B,2021,Pemerintah Provinsi NTT
+501,482,7701,C,2021,Pemerintah Kab. Kupang
+502,562,7702,C,2021,Pemerintah Kab. Belu
+503,592,7703,C,2021,Pemerintah Kab. Timor Tengah Utara
+504,452,7705,C,2021,Pemerintah Kab. Alor
+505,643,7707,C,2021,Pemerintah Kab. Flores Timur
+506,507,7708,C,2021,Pemerintah Kab. Ende
+507,743,7709,CC,2021,Pemerintah Kab. Ngada
+508,717,7710,CC,2021,Pemerintah Kab. Manggarai
+509,494,7711,C,2021,Pemerintah Kab. Sumba Timur
+510,462,7712,C,2021,Pemerintah Kab. Sumba Barat
+511,685,7718,C,2021,Pemerintah Kab. Nagekeo
+512,1061,7771,B,2021,Pemerintah Kota Kupang
+513,932,7800,CC,2021,Pemerintah Provinsi Maluku
+514,745,7801,CC,2021,Pemerintah Kab. Maluku Tengah
+515,821,7802,CC,2021,Pemerintah Kab. Maluku Tenggara
+516,732,7871,CC,2021,Pemerintah Kota Ambon
+517,865,7900,CC,2021,Pemerintah Provinsi Maluku Utara
+518,483,7908,C,2021,Pemerintah Kab. Pulau Taliabu
+519,969,7971,CC,2021,Pemerintah Kota Ternate
+520,579,7972,C,2021,Pemerintah Kota Tidore Kepulauan
+521,946,8000,CC,2021,Pemerintah Provinsi Papua
+522,502,8001,C,2021,Pemerintah Kab. Jayapura
+523,557,8002,C,2021,Pemerintah Kab. Biak Numfor
+524,549,8008,C,2021,Pemerintah Kab. Jayawijaya
+525,633,8072,C,2021,Pemerintah Kota Jayapura
+526,1292,8100,B,2021,Pemerintah Provinsi Kepulauan Riau
+527,590,8101,C,2021,Pemerintah Kab. Bintan
+528,930,8102,CC,2021,Pemerintah Kab. Karimun
+529,1046,8103,B,2021,Pemerintah Kab. Natuna
+530,769,8104,CC,2021,Pemerintah Kab. Lingga
+531,863,8105,CC,2021,Pemerintah Kab. Kepulauan Anambas
+532,836,8171,CC,2021,Pemerintah Kota Batam
+533,1320,8172,B,2021,Pemerintah Kota Tanjungpinang
+534,971,8200,CC,2021,Pemerintah Provinsi Papua Barat
+535,879,8201,CC,2021,Pemerintah Kab. Sorong
+536,465,8203,C,2021,Pemerintah Kab. Raja Ampat
+537,556,8204,C,2021,Pemerintah Kab. Manokwari
+538,1063,8206,B,2021,Pemerintah Kab. Teluk Wondama
+539,499,8207,C,2021,Pemerintah Kab. Fak-Fak
+540,509,8208,C,2021,Pemerintah Kab. Kaimana
+541,428,8210,C,2021,Pemerintah Kab. Tambrauw
+542,1116,8300,B,2021,Pemerintah Provinsi Sulawesi Barat
+543,634,8301,C,2021,Pemerintah Kab. Pasangkayu
+544,612,8302,C,2021,Pemerintah Kab. Mamuju
+545,532,8303,C,2021,Pemerintah Kab. Mamasa
+546,1255,8304,B,2021,Pemerintah Kab. Polewali Mandar
+547,644,8305,C,2021,Pemerintah Kab. Majene
+548,587,8306,C,2021,Pemerintah Kab. Mamuju Tengah
+549,1221,8400,B,2021,Pemerintah Provinsi Kalimantan Utara
+550,936,8401,CC,2021,Pemerintah Kab. Bulungan
+551,786,8402,CC,2021,Pemerintah Kab. Malinau
+552,773,8403,CC,2021,Pemerintah Kab. Nunukan
+553,722,8404,CC,2021,Pemerintah Kab. Tana Tidung
+554,870,8471,CC,2021,Pemerintah Kota Tarakan
+555,421,1010,BB,2020,"Kementerian Koordinator Bidang Politik, Hukum dan Keamanan"
+556,1401,1020,BB,2020,Kementerian Koordinator Bidang Perekonomian
+557,1386,1030,BB,2020,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan
+558,1356,1040,BB,2020,Kementerian Koordinator Bidang Kemaritiman dan Investasi Republik Indonesia
+559,1359,2000,BB,2020,"Kementerian Riset, Teknologi dan Pendidikan Tinggi"
+560,1357,2010,BB,2020,Kementerian Koperasi dan Usaha Kecil dan Menengah
+561,1420,2040,BB,2020,Kementerian Badan Usaha Milik Negara
+562,1336,2050,BB,2020,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+563,1481,2060,A,2020,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+564,1263,2100,B,2020,Kementerian Pemuda Olahraga
+565,1347,2120,BB,2020,"Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
+566,1379,3001,BB,2020,Kementerian Dalam Negeri
+567,1404,3002,BB,2020,Kementerian Luar Negeri
+568,1308,3003,B,2020,Kementerian Pertahanan
+569,1469,3004,A,2020,Kementerian Hukum dan Hak Asasi Manusia
+570,1486,3005,A,2020,Kementerian Keuangan
+571,1467,3006,BB,2020,Kementerian Pertanian
+572,1455,3008,BB,2020,Kementerian Energi dan Sumber Daya Mineral
+573,1442,3009,BB,2020,Kementerian Perhubungan
+574,1426,3010,BB,2020,Kementerian Pendidikan dan Kebudayaan
+575,1456,3011,BB,2020,Kementerian Kesehatan
+576,1362,3012,BB,2020,Kementerian Agama
+577,1361,3013,BB,2020,Kementerian Ketenagakerjaan
+578,1348,3014,BB,2020,Kementerian Sosial
+579,1363,3015,BB,2020,Kementerian Lingkungan Hidup dan Kehutanan
+580,1437,3016,BB,2020,Kementerian Kelautan dan Perikanan
+581,1391,3018,BB,2020,Kementerian Komunikasi dan Informatika
+582,1419,3019,BB,2020,Kementerian Perdagangan
+583,1445,3020,BB,2020,Kementerian Perindustrian
+584,1368,3021,BB,2020,Kementerian Pekerjaan Umum & Perumahan Rakyat
+585,1397,3022,BB,2020,Kementerian Pariwisata dan Ekonomi Kreatif
+586,1475,4001,A,2020,Kementerian Sekretariat Negara
+587,1413,4002,BB,2020,Kejaksaan Agung
+588,1407,4003,BB,2020,Badan Intelijen Negara
+589,1334,4005,BB,2020,Sekretariat Jenderal MPR
+590,1460,4007,BB,2020,Mahkamah Agung RI
+591,1487,4008,A,2020,Badan Pemeriksa Keuangan 
+592,1389,4010,BB,2020,Badan Siber dan Sandi Negara
+593,1406,4011,BB,2020,Badan Kepegawaian Negara
+594,1464,4012,BB,2020,Lembaga Administrasi Negara 
+595,1432,4013,BB,2020,Lembaga Penerbangan dan Antariksa Nasional
+596,1439,4014,BB,2020,Lembaga Ilmu Pengetahuan Indonesia
+597,1440,4015,BB,2020,Badan Tenaga Nuklir Nasional 
+598,1446,4016,BB,2020,Badan Pusat Statistik 
+599,1478,4017,A,2020,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional
+600,1417,4018,BB,2020,Arsip Nasional Republik Indonesia 
+601,1337,4019,BB,2020,Badan Informasi Geospasial
+602,1351,4020,BB,2020,Badan Kependudukan dan KB Nasional
+603,1425,4021,BB,2020,Badan Koordinasi Penanaman Modal 
+604,1414,4022,BB,2020,Badan Pengkajian dan Penerapan Teknologi
+605,1479,4023,A,2020,Badan Pengawasan Keuangan dan Pembangunan
+606,1353,4024,BB,2020,Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional
+607,1350,4025,BB,2020,Perpustakaan Nasional RI
+608,1400,4026,BB,2020,Sekretariat Jenderal DPR
+609,1369,4027,BB,2020,Badan Standardisasi Nasional 
+610,1415,4028,BB,2020,Badan Pengawas Tenaga Nuklir 
+611,1249,4029,B,2020,Sekretariat Jenderal DPD
+612,1476,4031,A,2020,Badan Pengawas Obat dan Makanan
+613,1258,4032,B,2020,Lembaga Ketahanan Nasional RI
+614,1392,4033,BB,2020,Kepolisian Negara RI
+615,1307,4034,B,2020,Tentara Nasional Indonesia
+616,1418,4035,BB,2020,"Badan Meteorologi, Klimatologi dan Geofisika"
+617,1474,4036,A,2020,Sekretariat Kabinet 
+618,1333,4040,BB,2020,Badan Narkotika Nasional
+619,1331,4041,BB,2020,Komisi Pemilihan Umum
+620,1354,4043,BB,2020,Badan Nasional Penanggulangan Bencana
+621,1328,4044,BB,2020,Komisi Nasional Hak Asasi Manusia
+622,1358,4046,BB,2020,Mahkamah Konstitusi
+623,1383,4049,BB,2020,Komisi Yudisial
+624,826,4052,CC,2020,Badan Keamanan Laut
+625,1405,4053,BB,2020,Badan Nasional Pencarian Dan Pertolongan
+626,1364,4054,BB,2020,Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+627,1436,4055,BB,2020,Pusat Pelaporan dan Analisis Transaksi Keuangan
+628,1310,4056,B,2020,Ombudsman Republik Indonesia
+629,807,4057,CC,2020,Televisi Republik Indonesia
+630,874,4058,CC,2020,Radio Republik Indonesia
+631,1146,4059,B,2020,Badan Nasional Pengelola Perbatasan
+632,1222,4060,B,2020,Badan Nasional Penanggulangan Terorisme
+633,1278,4112,B,2020,Komisi Aparatur Sipil Negara
+634,1296,4222,B,2020,Dewan Ketahanan Pangan 
+635,1035,4502,B,2020,Lembaga Perlindungan Saksi Dan Korban
+636,1355,4627,BB,2020,Badan Perlindungan Pekerja Migran Indonesia
+637,1273,4634,B,2020,Dewan Kehormatan Penyelenggara Pemilu
+638,1139,5100,B,2020,Pemerintah Provinsi Aceh
+639,484,5101,C,2020,Pemerintah Kab. Aceh Besar
+640,771,5102,CC,2020,Pemerintah Kab. Pidie
+641,603,5103,C,2020,Pemerintah Kab. Aceh Utara
+642,635,5104,C,2020,Pemerintah Kab. Aceh Timur
+643,443,5105,C,2020,Pemerintah Kab. Aceh Selatan
+644,952,5106,CC,2020,Pemerintah Kab. Aceh Barat
+645,550,5107,C,2020,Pemerintah Kab. Aceh Tengah
+646,559,5110,C,2020,Pemerintah Kab. Bireuen
+647,675,5111,C,2020,Pemerintah Kab. Aceh Singkil
+648,601,5112,C,2020,Pemerintah Kab. Aceh Barat Daya
+649,651,5113,C,2020,Pemerintah Kab. Gayo Lues
+650,668,5114,C,2020,Pemerintah Kab. Aceh Tamiang
+651,466,5115,C,2020,Pemerintah Kab. Nagan Raya
+652,676,5117,C,2020,Pemerintah Kab. Bener Meriah
+653,605,5118,C,2020,Pemerintah Kab. Pidie Jaya
+654,1050,5172,B,2020,Pemerintah Kota Banda Aceh
+655,542,5173,C,2020,Pemerintah Kota Langsa
+656,491,5174,C,2020,Pemerintah Kota Lhokseumawe
+657,461,5175,C,2020,Pemerintah Kota Subulussalam
+658,1079,5200,B,2020,Pemerintah Provinsi Sumatera Utara
+659,736,5201,CC,2020,Pemerintah Kab. Deli Serdang
+660,642,5203,C,2020,Pemerintah Kab. Langkat
+661,588,5206,C,2020,Pemerintah Kab. Labuhanbatu
+662,695,5210,CC,2020,Pemerintah Kab. Asahan
+663,468,5212,C,2020,Pemerintah Kab. Toba Samosir
+664,470,5213,C,2020,Pemerintah Kab. Mandailing Natal
+665,715,5215,CC,2020,Pemerintah Kab. Humbang Hasundutan
+666,540,5217,C,2020,Pemerintah Kab. Samosir
+667,869,5218,CC,2020,Pemerintah Kab. Serdang Bedagai
+668,448,5222,C,2020,Pemerintah Kab. Labuhanbatu Selatan
+669,737,5271,CC,2020,Pemerintah Kota Medan
+670,887,5272,CC,2020,Pemerintah Kota Tebing Tinggi
+671,476,5274,C,2020,Pemerintah Kota Pematang Siantar
+672,485,5278,C,2020,Pemerintah Kota Gunung Sitoli
+673,1252,5300,B,2020,Pemerintah Provinsi Riau
+674,800,5301,CC,2020,Pemerintah Kab. Kampar
+675,1118,5304,B,2020,Pemerintah Kab. Indragiri Hulu
+676,1048,5305,B,2020,Pemerintah Kab. Indragiri Hilir
+677,463,5306,C,2020,Pemerintah Kab. Pelalawan
+678,627,5307,C,2020,Pemerintah Kab. Rokan Hulu
+679,833,5308,CC,2020,Pemerintah Kab. Rokan Hilir
+680,747,5312,CC,2020,Pemerintah Kab. Kuantan Singingi
+681,610,5313,C,2020,Pemerintah Kab. Kepulauan Meranti
+682,1113,5371,B,2020,Pemerintah Kota Pekanbaru
+683,638,5373,C,2020,Pemerintah Kota Dumai
+684,1243,5400,B,2020,Pemerintah Provinsi Sumatera Barat
+685,630,5401,C,2020,Pemerintah Kab. Agam
+686,768,5402,CC,2020,Pemerintah Kab. Pasaman
+687,510,5403,C,2020,Pemerintah Kab. Limapuluh Kota
+688,1006,5404,CC,2020,Pemerintah Kab. Solok
+689,864,5405,CC,2020,Pemerintah Kab. Padang Pariaman
+690,884,5406,CC,2020,Pemerintah Kab. Pesisir Selatan
+691,1133,5407,B,2020,Pemerintah Kab. Tanah Datar
+692,623,5408,C,2020,Pemerintah Kab. Sijunjung
+693,518,5409,C,2020,Pemerintah Kab. Kep. Mentawai
+694,568,5411,C,2020,Pemerintah Kab. Dharmasraya
+695,664,5412,C,2020,Pemerintah Kab. Pasaman Barat
+696,1144,5471,B,2020,Pemerintah Kota Bukittinggi
+697,815,5472,CC,2020,Pemerintah Kota Padang Panjang
+698,814,5473,CC,2020,Pemerintah Kota Sawahlunto
+699,1038,5474,B,2020,Pemerintah Kota Solok
+700,1321,5475,B,2020,Pemerintah Kota Padang
+701,1135,5476,B,2020,Pemerintah Kota Payakumbuh
+702,834,5477,CC,2020,Pemerintah Kota Pariaman
+703,1058,5500,B,2020,Pemerintah Provinsi Jambi
+704,1122,5501,B,2020,Pemerintah Kab. Batang Hari
+705,621,5502,C,2020,Pemerintah Kab. Tanjung Jabung Barat
+706,700,5503,CC,2020,Pemerintah Kab. Bungo
+707,679,5504,C,2020,Pemerintah Kab. Merangin
+708,541,5505,C,2020,Pemerintah Kab. Kerinci
+709,918,5506,CC,2020,Pemerintah Kab. Sarolangun
+710,496,5507,C,2020,Pemerintah Kab. Tebo
+711,490,5508,C,2020,Pemerintah Kab. Muaro Jambi
+712,516,5509,C,2020,Pemerintah Kab. Tanjung Jabung Timur
+713,1072,5571,B,2020,Pemerintah Kota Jambi
+714,478,5572,C,2020,Pemerintah Kota Sungai Penuh
+715,1056,5600,B,2020,Pemerintah Provinsi Sumatera Selatan
+716,760,5601,CC,2020,Pemerintah Kab. Musi Banyuasin
+717,442,5602,C,2020,Pemerintah Kab. Ogan Komering Ulu
+718,986,5603,CC,2020,Pemerintah Kab. Muara Enim
+719,631,5604,C,2020,Pemerintah Kab. Lahat
+720,748,5605,CC,2020,Pemerintah Kab. Musi Rawas
+721,561,5606,C,2020,Pemerintah Kab. Ogan Komering Ilir
+722,698,5607,CC,2020,Pemerintah Kab. Banyuasin
+723,446,5608,C,2020,Pemerintah Kab. Ogan Komering Ulu Timur
+724,432,5610,C,2020,Pemerintah Kab. Ogan Ilir
+725,441,5611,C,2020,Pemerintah Kab. Empat Lawang
+726,956,5671,CC,2020,Pemerintah Kota Palembang
+727,511,5672,C,2020,Pemerintah Kota Pagar Alam
+728,825,5673,CC,2020,Pemerintah Kota Lubuk Linggau
+729,435,5674,C,2020,Pemerintah Kota Prabumulih
+730,1224,5700,B,2020,Pemerintah Provinsi Kep. Bangka Belitung
+731,1088,5701,B,2020,Pemerintah Kab. Bangka
+732,852,5702,CC,2020,Pemerintah Kab. Belitung
+733,584,5703,C,2020,Pemerintah Kab. Bangka Barat
+734,1235,5704,B,2020,Pemerintah Kab. Bangka Tengah
+735,1034,5705,B,2020,Pemerintah Kab. Bangka Selatan
+736,823,5706,CC,2020,Pemerintah Kab. Belitung Timur
+737,1108,5771,B,2020,Pemerintah Kota Pangkal Pinang
+738,1166,5800,B,2020,Pemerintah Provinsi Bengkulu
+739,725,5801,CC,2020,Pemerintah Kab. Bengkulu Utara
+740,489,5802,C,2020,Pemerintah Kab. Bengkulu Selatan
+741,520,5803,C,2020,Pemerintah Kab. Rejang Lebong
+742,536,5804,C,2020,Pemerintah Kab. Kaur
+743,521,5805,C,2020,Pemerintah Kab. Seluma
+744,591,5806,C,2020,Pemerintah Kab. Mukomuko
+745,589,5807,C,2020,Pemerintah Kab. Kepahiang
+746,816,5808,CC,2020,Pemerintah Kab. Lebong
+747,780,5809,CC,2020,Pemerintah Kab. Bengkulu Tengah
+748,808,5871,CC,2020,Pemerintah Kota Bengkulu
+749,784,5900,CC,2020,Pemerintah Provinsi Lampung
+750,614,5901,C,2020,Pemerintah Kab. Lampung Selatan
+751,433,5902,C,2020,Pemerintah Kab. Lampung Tengah
+752,471,5903,C,2020,Pemerintah Kab. Lampung Utara
+753,883,5904,CC,2020,Pemerintah Kab. Lampung Barat
+754,673,5905,C,2020,Pemerintah Kab. Tulang Bawang
+755,873,5906,CC,2020,Pemerintah Kab. Tanggamus
+756,751,5907,CC,2020,Pemerintah Kab. Way Kanan
+757,640,5908,C,2020,Pemerintah Kab. Lampung Timur
+758,637,5909,C,2020,Pemerintah Kab. Pesawaran
+759,458,5910,C,2020,Pemerintah Kab. Tulang Bawang Barat
+760,753,5911,CC,2020,Pemerintah Kab. Pringsewu
+761,459,5912,C,2020,Pemerintah Kab. Mesuji
+762,1000,5971,CC,2020,Pemerintah Kota Metro
+763,1013,5972,CC,2020,Pemerintah Kota Bandar Lampung
+764,1398,6000,BB,2020,Pemerintah Provinsi DKI Jakarta
+765,1366,6100,BB,2020,Pemerintah Provinsi Jawa Barat
+766,1250,6101,B,2020,Pemerintah Kab. Bogor
+767,1085,6102,B,2020,Pemerintah Kab. Sukabumi
+768,1007,6103,CC,2020,Pemerintah Kab. Cianjur
+769,1008,6104,CC,2020,Pemerintah Kab. Bekasi
+770,1128,6105,B,2020,Pemerintah Kab. Karawang
+771,1027,6106,B,2020,Pemerintah Kab. Purwakarta
+772,949,6107,CC,2020,Pemerintah Kab. Subang
+773,1188,6108,B,2020,Pemerintah Kab. Bandung
+774,1267,6109,B,2020,Pemerintah Kab. Sumedang
+775,1229,6110,B,2020,Pemerintah Kab. Garut
+776,860,6111,CC,2020,Pemerintah Kab. Tasikmalaya
+777,953,6112,CC,2020,Pemerintah Kab. Ciamis
+778,916,6113,CC,2020,Pemerintah Kab. Cirebon
+779,820,6114,CC,2020,Pemerintah Kab. Kuningan
+780,966,6115,CC,2020,Pemerintah Kab. Indramayu
+781,849,6116,CC,2020,Pemerintah Kab. Majalengka
+782,959,6117,CC,2020,Pemerintah Kab. Bandung Barat
+783,787,6118,CC,2020,Pemerintah Kab. Pangandaran
+784,1332,6171,BB,2020,Pemerintah Kota Bandung
+785,1248,6172,B,2020,Pemerintah Kota Bogor
+786,1280,6173,B,2020,Pemerintah Kota Sukabumi
+787,1147,6174,B,2020,Pemerintah Kota Cirebon
+788,1239,6175,B,2020,Pemerintah Kota Bekasi
+789,1150,6176,B,2020,Pemerintah Kota Depok
+790,999,6177,CC,2020,Pemerintah Kota Cimahi
+791,958,6178,CC,2020,Pemerintah Kota Tasikmalaya
+792,908,6179,CC,2020,Pemerintah Kota Banjar
+793,1086,6200,B,2020,Pemerintah Provinsi Banten
+794,699,6201,CC,2020,Pemerintah Kab. Serang
+795,801,6202,CC,2020,Pemerintah Kab. Pandeglang
+796,1054,6203,B,2020,Pemerintah Kab. Lebak
+797,980,6204,CC,2020,Pemerintah Kab. Tangerang
+798,1149,6271,B,2020,Pemerintah Kota Tangerang
+799,604,6272,C,2020,Pemerintah Kota Cilegon
+800,975,6273,CC,2020,Pemerintah Kota Serang
+801,1084,6274,B,2020,Pemerintah Kota Tangerang Selatan
+802,1472,6300,A,2020,Pemerintah Provinsi D.I. Yogyakarta
+803,1395,6301,BB,2020,Pemerintah Kab. Bantul
+804,1393,6302,BB,2020,Pemerintah Kab. Sleman
+805,1247,6303,B,2020,Pemerintah Kab. Gunungkidul
+806,1352,6304,BB,2020,Pemerintah Kab. Kulon Progo
+807,1388,6371,BB,2020,Pemerintah Kota Yogyakarta
+808,1412,6400,BB,2020,Pemerintah Provinsi Jawa Tengah
+809,1070,6401,B,2020,Pemerintah Kab. Semarang
+810,1177,6402,B,2020,Pemerintah Kab. Kendal
+811,1204,6403,B,2020,Pemerintah Kab. Demak
+812,1180,6404,B,2020,Pemerintah Kab. Grobogan
+813,1193,6405,B,2020,Pemerintah Kab. Pekalongan
+814,1160,6406,B,2020,Pemerintah Kab. Batang
+815,1186,6407,B,2020,Pemerintah Kab. Tegal
+816,992,6408,CC,2020,Pemerintah Kab. Brebes
+817,1117,6409,B,2020,Pemerintah Kab. Pati
+818,1256,6410,B,2020,Pemerintah Kab. Kudus
+819,1082,6411,B,2020,Pemerintah Kab. Pemalang
+820,997,6412,CC,2020,Pemerintah Kab. Jepara
+821,862,6413,CC,2020,Pemerintah Kab. Rembang
+822,914,6414,CC,2020,Pemerintah Kab. Blora
+823,1305,6415,B,2020,Pemerintah Kab. Banyumas
+824,1281,6416,B,2020,Pemerintah Kab. Cilacap
+825,1202,6417,B,2020,Pemerintah Kab. Purbalingga
+826,1155,6418,B,2020,Pemerintah Kab. Banjarnegara
+827,1081,6419,B,2020,Pemerintah Kab. Magelang
+828,1141,6420,B,2020,Pemerintah Kab. Temanggung
+829,1011,6421,CC,2020,Pemerintah Kab. Wonosobo
+830,1178,6422,B,2020,Pemerintah Kab. Purworejo
+831,981,6423,CC,2020,Pemerintah Kab. Kebumen
+832,961,6424,CC,2020,Pemerintah Kab. Klaten
+833,1109,6425,B,2020,Pemerintah Kab. Boyolali
+834,1045,6426,B,2020,Pemerintah Kab. Sragen
+835,910,6427,CC,2020,Pemerintah Kab. Sukoharjo
+836,993,6428,CC,2020,Pemerintah Kab. Karanganyar
+837,1199,6429,B,2020,Pemerintah Kab. Wonogiri
+838,1319,6471,B,2020,Pemerintah Kota Semarang
+839,1205,6472,B,2020,Pemerintah Kota Salatiga
+840,1301,6473,B,2020,Pemerintah Kota Pekalongan
+841,1236,6474,B,2020,Pemerintah Kota Tegal
+842,1237,6475,B,2020,Pemerintah Kota Magelang
+843,1284,6476,B,2020,Pemerintah Kota Surakarta
+844,1394,6500,BB,2020,Pemerintah Provinsi Jawa Timur
+845,1311,6501,B,2020,Pemerintah Kab. Gresik
+846,1200,6502,B,2020,Pemerintah Kab. Mojokerto
+847,1218,6503,B,2020,Pemerintah Kab. Sidoarjo
+848,1018,6504,B,2020,Pemerintah Kab. Jombang
+849,942,6505,CC,2020,Pemerintah Kab. Sampang
+850,1197,6506,B,2020,Pemerintah Kab. Pamekasan
+851,1015,6507,B,2020,Pemerintah Kab. Sumenep
+852,891,6508,CC,2020,Pemerintah Kab. Bangkalan
+853,1206,6509,B,2020,Pemerintah Kab. Bondowoso
+854,1294,6510,B,2020,Pemerintah Kab. Situbondo
+855,1410,6511,BB,2020,Pemerintah Kab. Banyuwangi
+856,928,6512,CC,2020,Pemerintah Kab. Jember
+857,1261,6513,B,2020,Pemerintah Kab. Malang
+858,1185,6514,B,2020,Pemerintah Kab. Pasuruan
+859,1219,6515,B,2020,Pemerintah Kab. Probolinggo
+860,931,6516,CC,2020,Pemerintah Kab. Lumajang
+861,1078,6517,B,2020,Pemerintah Kab. Kediri
+862,1225,6518,B,2020,Pemerintah Kab. Tulungagung
+863,1077,6519,B,2020,Pemerintah Kab. Nganjuk
+864,1244,6520,B,2020,Pemerintah Kab. Trenggalek
+865,1066,6521,B,2020,Pemerintah Kab. Blitar
+866,1100,6522,B,2020,Pemerintah Kab. Madiun
+867,1302,6523,B,2020,Pemerintah Kab. Ngawi
+868,1010,6524,CC,2020,Pemerintah Kab. Magetan
+869,1213,6525,B,2020,Pemerintah Kab. Ponorogo
+870,1251,6526,B,2020,Pemerintah Kab. Pacitan
+871,976,6527,CC,2020,Pemerintah Kab. Bojonegoro
+872,1051,6528,B,2020,Pemerintah Kab. Tuban
+873,1232,6529,B,2020,Pemerintah Kab. Lamongan
+874,1433,6571,BB,2020,Pemerintah Kota Surabaya
+875,1136,6572,B,2020,Pemerintah Kota Mojokerto
+876,1317,6573,B,2020,Pemerintah Kota Malang
+877,1127,6574,B,2020,Pemerintah Kota Pasuruan
+878,1246,6575,B,2020,Pemerintah Kota Probolinggo
+879,1254,6576,B,2020,Pemerintah Kota Blitar
+880,970,6577,CC,2020,Pemerintah Kota Kediri
+881,1217,6578,B,2020,Pemerintah Kota Madiun
+882,1120,6579,B,2020,Pemerintah Kota Batu
+883,1289,6600,B,2020,Pemerintah Provinsi Kalimantan Barat
+884,1033,6601,B,2020,Pemerintah Kab. Sambas
+885,686,6602,CC,2020,Pemerintah Kab. Sanggau
+886,713,6603,CC,2020,Pemerintah Kab. Sintang
+887,1057,6604,B,2020,Pemerintah Kab. Mempawah
+888,894,6605,CC,2020,Pemerintah Kab. Kapuas Hulu
+889,778,6606,CC,2020,Pemerintah Kab. Ketapang
+890,711,6607,CC,2020,Pemerintah Kab. Bengkayang
+891,1064,6608,B,2020,Pemerintah Kab. Landak
+892,712,6609,CC,2020,Pemerintah Kab. Melawi
+893,846,6610,CC,2020,Pemerintah Kab. Sekadau
+894,770,6611,CC,2020,Pemerintah Kab. Kubu Raya
+895,697,6612,CC,2020,Pemerintah Kab. Kayong Utara
+896,1266,6671,B,2020,Pemerintah Kota Pontianak
+897,899,6672,CC,2020,Pemerintah Kota Singkawang
+898,998,6700,CC,2020,Pemerintah Provinsi Kalimantan Tengah
+899,923,6701,CC,2020,Pemerintah Kab. Kapuas
+900,687,6703,CC,2020,Pemerintah Kab. Barito Selatan
+901,755,6704,CC,2020,Pemerintah Kab. Kotawaringin Timur
+902,903,6705,CC,2020,Pemerintah Kab. Kotawaringin Barat
+903,716,6708,CC,2020,Pemerintah Kab. Lamandau
+904,656,6711,C,2020,Pemerintah Kab. Katingan
+905,1043,6712,B,2020,Pemerintah Kab. Seruyan
+906,1285,6800,B,2020,Pemerintah Provinsi Kalimantan Selatan
+907,841,6801,CC,2020,Pemerintah Kab. Banjar
+908,919,6802,CC,2020,Pemerintah Kab. Tanah Laut
+909,822,6803,CC,2020,Pemerintah Kab. Tapin
+910,1227,6804,B,2020,Pemerintah Kab. Hulu Sungai Selatan
+911,734,6805,CC,2020,Pemerintah Kab. Hulu Sungai Tengah
+912,803,6806,CC,2020,Pemerintah Kab. Barito Kuala
+913,898,6807,CC,2020,Pemerintah Kab. Tabalong
+914,895,6808,CC,2020,Pemerintah Kab. Kotabaru
+915,858,6809,CC,2020,Pemerintah Kab. Hulu Sungai Utara
+916,901,6810,CC,2020,Pemerintah Kab. Tanah Bumbu
+917,844,6811,CC,2020,Pemerintah Kab. Balangan
+918,1279,6871,B,2020,Pemerintah Kota Banjarmasin
+919,1101,6872,B,2020,Pemerintah Kota Banjarbaru
+920,1276,6900,B,2020,Pemerintah Provinsi Kalimantan Timur
+921,1083,6901,B,2020,Pemerintah Kab. Kutai Kartanegara
+922,904,6902,CC,2020,Pemerintah Kab. Paser
+923,827,6904,CC,2020,Pemerintah Kab. Berau
+924,752,6907,CC,2020,Pemerintah Kab. Kutai Barat
+925,1039,6910,B,2020,Pemerintah Kab. Penajam Paser Utara
+926,1031,6971,B,2020,Pemerintah Kota Samarinda
+927,1259,6972,B,2020,Pemerintah Kota Balikpapan
+928,1226,6973,B,2020,Pemerintah Kota Bontang
+929,954,7000,CC,2020,Pemerintah Provinsi Sulawesi Utara
+930,439,7001,C,2020,Pemerintah Kab. Minahasa
+931,429,7002,C,2020,Pemerintah Kab. Bolaang Mongondow
+932,440,7003,C,2020,Pemerintah Kab. Kepulauan Sangihe
+933,444,7004,C,2020,Pemerintah Kab. Minahasa Selatan
+934,427,7005,C,2020,Pemerintah Kab. Kepulauan Talaud
+935,558,7006,C,2020,Pemerintah Kab. Minahasa Utara
+936,426,7007,C,2020,Pemerintah Kab. Bolaang Mongondow Utara
+937,829,7008,CC,2020,Pemerintah Kab. Siau Tagulandang Biaro
+938,586,7009,C,2020,Pemerintah Kab. Minahasa Tenggara
+939,775,7012,CC,2020,Pemerintah Kab. Bolaang Mongondow Selatan
+940,503,7013,C,2020,Pemerintah Kab. Bolaang Mongondow Timur
+941,1138,7071,B,2020,Pemerintah Kota Manado
+942,828,7072,CC,2020,Pemerintah Kota Bitung
+943,885,7073,CC,2020,Pemerintah Kota Tomohon
+944,877,7074,CC,2020,Pemerintah Kota KotaMobagu
+945,1167,7100,B,2020,Pemerintah Provinsi Gorontalo
+946,1106,7101,B,2020,Pemerintah Kab. Gorontalo
+947,843,7102,CC,2020,Pemerintah Kab. Boalemo
+948,1036,7103,B,2020,Pemerintah Kab. Pohuwato
+949,929,7104,CC,2020,Pemerintah Kab. Bone Bolango
+950,422,7105,D,2020,Pemerintah Kab. Gorontalo Utara
+951,1153,7171,B,2020,Pemerintah Kota Gorontalo
+952,1125,7200,B,2020,Pemerintah Provinsi Sulawesi Tengah
+953,662,7201,C,2020,Pemerintah Kab. Poso
+954,497,7203,C,2020,Pemerintah Kab. Tolitoli
+955,1196,7204,B,2020,Pemerintah Kab. Banggai
+956,573,7205,C,2020,Pemerintah Kab. Buol
+957,544,7206,C,2020,Pemerintah Kab. Morowali
+958,580,7207,C,2020,Pemerintah Kab. Banggai Kepulauan
+959,546,7209,C,2020,Pemerintah Kab. Tojo Una Una
+960,535,7210,C,2020,Pemerintah Kab. Sigi
+961,425,7211,D,2020,Pemerintah Kab. Banggai Laut
+962,693,7271,CC,2020,Pemerintah Kota Palu
+963,1029,7300,B,2020,Pemerintah Provinsi Sulawesi Selatan
+964,809,7301,CC,2020,Pemerintah Kab. Pinrang
+965,793,7302,CC,2020,Pemerintah Kab. Gowa
+966,1019,7303,B,2020,Pemerintah Kab. Wajo
+967,537,7305,C,2020,Pemerintah Kab. Bone
+968,731,7306,CC,2020,Pemerintah Kab. Tana Toraja
+969,703,7307,CC,2020,Pemerintah Kab. Maros
+970,564,7309,C,2020,Pemerintah Kab. Luwu
+971,927,7310,CC,2020,Pemerintah Kab. Sinjai
+972,902,7311,CC,2020,Pemerintah Kab. Bulukumba
+973,453,7312,C,2020,Pemerintah Kab. Bantaeng
+974,531,7313,C,2020,Pemerintah Kab. Jeneponto
+975,517,7314,C,2020,Pemerintah Kab. Kepulauan Selayar
+976,671,7315,C,2020,Pemerintah Kab. Takalar
+977,593,7316,C,2020,Pemerintah Kab. Barru
+978,613,7317,C,2020,Pemerintah Kab. Sidenreng Rappang
+979,526,7318,C,2020,Pemerintah Kab. Pangkajene dan Kepulauan
+980,680,7319,C,2020,Pemerintah Kab. Soppeng
+981,652,7321,C,2020,Pemerintah Kab. Enrekang
+982,938,7322,CC,2020,Pemerintah Kab. Luwu Utara
+983,609,7325,C,2020,Pemerintah Kab. Luwu Timur
+984,431,7326,C,2020,Pemerintah Kab. Toraja Utara
+985,1164,7371,B,2020,Pemerintah Kota Makassar
+986,892,7372,CC,2020,Pemerintah Kota Parepare
+987,714,7373,CC,2020,Pemerintah Kota Palopo
+988,1014,7400,B,2020,Pemerintah Provinsi Sulawesi Tenggara
+989,480,7401,C,2020,Pemerintah Kab. Konawe
+990,629,7402,C,2020,Pemerintah Kab. Buton
+991,553,7404,C,2020,Pemerintah Kab. Kolaka
+992,705,7405,CC,2020,Pemerintah Kab. Konawe Selatan
+993,523,7406,C,2020,Pemerintah Kab. Kolaka Utara
+994,677,7407,C,2020,Pemerintah Kab. Bombana
+995,845,7410,CC,2020,Pemerintah Kab. Buton Utara
+996,694,7411,CC,2020,Pemerintah Kab. Konawe Utara
+997,493,7412,C,2020,Pemerintah Kab. Kolaka Timur
+998,423,7413,D,2020,Pemerintah Kab. Konawe Kepulauan
+999,729,7414,CC,2020,Pemerintah Kab. Buton Selatan
+1000,628,7415,C,2020,Pemerintah Kab. Buton Tengah
+1001,1119,7471,B,2020,Pemerintah Kota Kendari
+1002,806,7472,CC,2020,Pemerintah Kota Baubau
+1003,1314,7500,B,2020,Pemerintah Provinsi Bali
+1004,1062,7501,B,2020,Pemerintah Kab. Buleleng
+1005,964,7502,CC,2020,Pemerintah Kab. Jembrana
+1006,987,7503,CC,2020,Pemerintah Kab. Klungkung
+1007,915,7504,CC,2020,Pemerintah Kab. Gianyar
+1008,692,7505,CC,2020,Pemerintah Kab. Karangasem
+1009,984,7506,CC,2020,Pemerintah Kab. Bangli
+1010,1346,7507,BB,2020,Pemerintah Kab. Badung
+1011,1097,7508,B,2020,Pemerintah Kab. Tabanan
+1012,1293,7571,B,2020,Pemerintah Kota Denpasar
+1013,1216,7600,B,2020,Pemerintah Provinsi NTB
+1014,1179,7601,B,2020,Pemerintah Kab. Lombok Barat
+1015,777,7602,CC,2020,Pemerintah Kab. Lombok Tengah
+1016,639,7604,C,2020,Pemerintah Kab. Bima
+1017,742,7605,CC,2020,Pemerintah Kab. Sumbawa
+1018,688,7606,CC,2020,Pemerintah Kab. Dompu
+1019,794,7607,CC,2020,Pemerintah Kab. Sumbawa Barat
+1020,757,7608,CC,2020,Pemerintah Kab. Lombok Utara
+1021,1181,7671,B,2020,Pemerintah Kota Mataram
+1022,702,7672,CC,2020,Pemerintah Kota Bima
+1023,1071,7700,B,2020,Pemerintah Provinsi NTT
+1024,563,7703,C,2020,Pemerintah Kab. Timor Tengah Utara
+1025,599,7704,C,2020,Pemerintah Kab. Timor Tengah Selatan
+1026,661,7707,C,2020,Pemerintah Kab. Flores Timur
+1027,690,7709,CC,2020,Pemerintah Kab. Ngada
+1028,682,7710,C,2020,Pemerintah Kab. Manggarai
+1029,796,7715,CC,2020,Pemerintah Kab. Manggarai Barat
+1030,641,7718,C,2020,Pemerintah Kab. Nagekeo
+1031,1030,7771,B,2020,Pemerintah Kota Kupang
+1032,868,7800,CC,2020,Pemerintah Provinsi Maluku
+1033,622,7801,C,2020,Pemerintah Kab. Maluku Tengah
+1034,618,7802,C,2020,Pemerintah Kab. Maluku Tenggara
+1035,595,7871,C,2020,Pemerintah Kota Ambon
+1036,804,7900,CC,2020,Pemerintah Provinsi Maluku Utara
+1037,474,7903,C,2020,Pemerintah Kab. Kepulauan Sula
+1038,566,7905,C,2020,Pemerintah Kab. Halmahera Utara
+1039,436,7908,C,2020,Pemerintah Kab. Pulau Taliabu
+1040,897,7971,CC,2020,Pemerintah Kota Ternate
+1041,925,8000,CC,2020,Pemerintah Provinsi Papua
+1042,456,8002,C,2020,Pemerintah Kab. Biak Numfor
+1043,424,8008,D,2020,Pemerintah Kab. Jayawijaya
+1044,582,8072,C,2020,Pemerintah Kota Jayapura
+1045,1290,8100,B,2020,Pemerintah Provinsi Kepulauan Riau
+1046,527,8101,C,2020,Pemerintah Kab. Bintan
+1047,909,8102,CC,2020,Pemerintah Kab. Karimun
+1048,972,8103,CC,2020,Pemerintah Kab. Natuna
+1049,704,8104,CC,2020,Pemerintah Kab. Lingga
+1050,776,8105,CC,2020,Pemerintah Kab. Kepulauan Anambas
+1051,798,8171,CC,2020,Pemerintah Kota Batam
+1052,1297,8172,B,2020,Pemerintah Kota Tanjungpinang
+1053,951,8200,CC,2020,Pemerintah Provinsi Papua Barat
+1054,900,8201,CC,2020,Pemerintah Kab. Sorong
+1055,515,8204,C,2020,Pemerintah Kab. Manokwari
+1056,1115,8206,B,2020,Pemerintah Kab. Teluk Wondama
+1057,449,8271,C,2020,Pemerintah Kota Sorong
+1058,1021,8300,B,2020,Pemerintah Provinsi Sulawesi Barat
+1059,606,8301,C,2020,Pemerintah Kab. Pasangkayu
+1060,534,8302,C,2020,Pemerintah Kab. Mamuju
+1061,1161,8304,B,2020,Pemerintah Kab. Polewali Mandar
+1062,576,8305,C,2020,Pemerintah Kab. Majene
+1063,481,8306,C,2020,Pemerintah Kab. Mamuju Tengah
+1064,1211,8400,B,2020,Pemerintah Provinsi Kalimantan Utara
+1065,882,8401,CC,2020,Pemerintah Kab. Bulungan
+1066,797,8402,CC,2020,Pemerintah Kab. Malinau
+1067,765,8403,CC,2020,Pemerintah Kab. Nunukan
+1068,720,8404,CC,2020,Pemerintah Kab. Tana Tidung
+1069,851,8471,CC,2020,Pemerintah Kota Tarakan
+1070,1,1010,BB,2019,"Kementerian Koordinator Bidang Politik, Hukum dan Keamanan"
+1071,39,1020,BB,2019,Kementerian Koordinator Bidang Perekonomian
+1072,67,1030,BB,2019,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan
+1073,79,1040,B,2019,Kementerian Koordinator Bidang Kemaritiman dan Investasi Republik Indonesia
+1074,47,2000,BB,2019,"Kementerian Riset, Teknologi dan Pendidikan Tinggi"
+1075,48,2010,BB,2019,Kementerian Koperasi dan Usaha Kecil dan Menengah
+1076,51,2040,BB,2019,Kementerian Badan Usaha Milik Negara
+1077,72,2050,BB,2019,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+1078,7,2060,A,2019,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+1079,73,2100,B,2019,Kementerian Pemuda Olahraga
+1080,49,2120,BB,2019,"Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
+1081,2,3001,BB,2019,Kementerian Dalam Negeri
+1082,3,3002,BB,2019,Kementerian Luar Negeri
+1083,5,3003,B,2019,Kementerian Pertahanan
+1084,4,3004,BB,2019,Kementerian Hukum dan Hak Asasi Manusia
+1085,40,3005,A,2019,Kementerian Keuangan
+1086,43,3006,BB,2019,Kementerian Pertanian
+1087,83,3008,BB,2019,Kementerian Energi dan Sumber Daya Mineral
+1088,80,3009,BB,2019,Kementerian Perhubungan
+1089,69,3010,BB,2019,Kementerian Pendidikan dan Kebudayaan
+1090,68,3011,BB,2019,Kementerian Kesehatan
+1091,71,3012,BB,2019,Kementerian Agama
+1092,45,3013,BB,2019,Kementerian Ketenagakerjaan
+1093,70,3014,BB,2019,Kementerian Sosial
+1094,44,3015,BB,2019,Kementerian Lingkungan Hidup dan Kehutanan
+1095,81,3016,BB,2019,Kementerian Kelautan dan Perikanan
+1096,6,3018,BB,2019,Kementerian Komunikasi dan Informatika
+1097,42,3019,BB,2019,Kementerian Perdagangan
+1098,41,3020,BB,2019,Kementerian Perindustrian
+1099,46,3021,BB,2019,Kementerian Pekerjaan Umum & Perumahan Rakyat
+1100,82,3022,BB,2019,Kementerian Pariwisata dan Ekonomi Kreatif
+1101,14,4001,A,2019,Kementerian Sekretariat Negara
+1102,8,4002,BB,2019,Kejaksaan Agung
+1103,20,4003,BB,2019,Badan Intelijen Negara
+1104,16,4004,BB,2019,Majelis Permusyawaratan Rakyat
+1105,18,4006,BB,2019,Dewan Perwakilan Rakyat
+1106,9,4007,BB,2019,Mahkamah Agung RI
+1107,53,4008,A,2019,Badan Pemeriksa Keuangan 
+1108,26,4009,B,2019,Dewan Ketahanan Nasional
+1109,19,4010,BB,2019,Badan Siber dan Sandi Negara
+1110,22,4011,BB,2019,Badan Kepegawaian Negara
+1111,23,4012,BB,2019,Lembaga Administrasi Negara 
+1112,62,4014,BB,2019,Lembaga Ilmu Pengetahuan Indonesia
+1113,61,4015,BB,2019,Badan Tenaga Nuklir Nasional 
+1114,54,4016,BB,2019,Badan Pusat Statistik 
+1115,50,4017,A,2019,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional
+1116,24,4018,BB,2019,Arsip Nasional Republik Indonesia 
+1117,65,4019,BB,2019,Badan Informasi Geospasial
+1118,74,4020,BB,2019,Badan Kependudukan dan KB Nasional
+1119,66,4021,BB,2019,Badan Koordinasi Penanaman Modal 
+1120,59,4022,BB,2019,Badan Pengkajian dan Penerapan Teknologi
+1121,55,4023,BB,2019,Badan Pengawasan Keuangan dan Pembangunan
+1122,27,4024,BB,2019,Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional
+1123,76,4025,BB,2019,Perpustakaan Nasional RI
+1124,58,4027,BB,2019,Badan Standardisasi Nasional 
+1125,60,4028,BB,2019,Badan Pengawas Tenaga Nuklir 
+1126,78,4031,A,2019,Badan Pengawas Obat dan Makanan
+1127,28,4032,B,2019,Lembaga Ketahanan Nasional RI
+1128,13,4033,BB,2019,Kepolisian Negara RI
+1129,12,4034,B,2019,Tentara Nasional Indonesia
+1130,64,4035,BB,2019,"Badan Meteorologi, Klimatologi dan Geofisika"
+1131,15,4036,A,2019,Sekretariat Kabinet 
+1132,25,4040,BB,2019,Badan Narkotika Nasional
+1133,31,4041,BB,2019,Komisi Pemilihan Umum
+1134,77,4043,B,2019,Badan Nasional Penanggulangan Bencana
+1135,30,4044,B,2019,Komisi Nasional Hak Asasi Manusia
+1136,10,4046,BB,2019,Mahkamah Konstitusi
+1137,11,4049,BB,2019,Komisi Yudisial
+1138,17,4050,B,2019,Dewan Perwakilan Daerah
+1139,56,4051,BB,2019,Badan Nasional Penempatan Perlindungan TKI
+1140,21,4052,CC,2019,Badan Keamanan Laut
+1141,75,4053,BB,2019,Badan Nasional Pencarian Dan Pertolongan
+1142,57,4054,BB,2019,Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+1143,52,4055,BB,2019,Pusat Pelaporan dan Analisis Transaksi Keuangan
+1144,37,4056,B,2019,Ombudsman Republik Indonesia
+1145,35,4057,CC,2019,Televisi Republik Indonesia
+1146,36,4058,CC,2019,Radio Republik Indonesia
+1147,34,4059,B,2019,Badan Nasional Pengelola Perbatasan
+1148,33,4060,B,2019,Badan Nasional Penanggulangan Terorisme
+1149,32,4062,B,2019,Badan Pengawas Pemilihan Umum
+1150,84,4063,B,2019,Badan Ekonomi Kreatif
+1151,38,4112,B,2019,Komisi Aparatur Sipil Negara
+1152,63,4201,BB,2019,Dewan Penerbangan Antariksa Nasional
+1153,29,4502,B,2019,Lembaga Perlindungan Saksi Dan Korban
+1154,85,5100,B,2019,Pemerintah Provinsi Aceh
+1155,120,5101,C,2019,Pemerintah Kab. Aceh Besar
+1156,125,5102,C,2019,Pemerintah Kab. Pidie
+1157,123,5103,C,2019,Pemerintah Kab. Aceh Utara
+1158,119,5106,B,2019,Pemerintah Kab. Aceh Barat
+1159,122,5107,C,2019,Pemerintah Kab. Aceh Tengah
+1160,121,5114,C,2019,Pemerintah Kab. Aceh Tamiang
+1161,124,5117,C,2019,Pemerintah Kab. Bener Meriah
+1162,126,5118,C,2019,Pemerintah Kab. Pidie Jaya
+1163,127,5172,B,2019,Pemerintah Kota Banda Aceh
+1164,128,5173,C,2019,Pemerintah Kota Langsa
+1165,118,5200,B,2019,Pemerintah Provinsi Sumatera Utara
+1166,129,5206,C,2019,Pemerintah Kab. Labuhanbatu
+1167,131,5208,C,2019,Pemerintah Kab. Tapanuli Utara
+1168,130,5218,CC,2019,Pemerintah Kab. Serdang Bedagai
+1169,132,5271,CC,2019,Pemerintah Kota Medan
+1170,133,5272,CC,2019,Pemerintah Kota Tebing Tinggi
+1171,110,5300,B,2019,Pemerintah Provinsi Riau
+1172,149,5301,CC,2019,Pemerintah Kab. Kampar
+1173,148,5304,B,2019,Pemerintah Kab. Indragiri Hulu
+1174,147,5305,B,2019,Pemerintah Kab. Indragiri Hilir
+1175,151,5307,C,2019,Pemerintah Kab. Rokan Hulu
+1176,150,5308,CC,2019,Pemerintah Kab. Rokan Hilir
+1177,152,5309,CC,2019,Pemerintah Kab. Siak
+1178,154,5371,B,2019,Pemerintah Kota Pekanbaru
+1179,153,5373,C,2019,Pemerintah Kota Dumai
+1180,116,5400,B,2019,Pemerintah Provinsi Sumatera Barat
+1181,134,5401,C,2019,Pemerintah Kab. Agam
+1182,136,5405,CC,2019,Pemerintah Kab. Padang Pariaman
+1183,137,5406,CC,2019,Pemerintah Kab. Pesisir Selatan
+1184,138,5406,CC,2019,Pemerintah Kab. Pesisir Selatan
+1185,139,5407,B,2019,Pemerintah Kab. Tanah Datar
+1186,135,5409,C,2019,Pemerintah Kab. Kep. Mentawai
+1187,140,5471,B,2019,Pemerintah Kota Bukittinggi
+1188,142,5472,CC,2019,Pemerintah Kota Padang Panjang
+1189,145,5473,CC,2019,Pemerintah Kota Sawahlunto
+1190,146,5474,B,2019,Pemerintah Kota Solok
+1191,141,5475,B,2019,Pemerintah Kota Padang
+1192,144,5476,B,2019,Pemerintah Kota Payakumbuh
+1193,143,5477,CC,2019,Pemerintah Kota Pariaman
+1194,92,5500,B,2019,Pemerintah Provinsi Jambi
+1195,161,5501,B,2019,Pemerintah Kab. Batang Hari
+1196,167,5502,C,2019,Pemerintah Kab. Tanjung Jabung Barat
+1197,162,5503,C,2019,Pemerintah Kab. Bungo
+1198,164,5504,C,2019,Pemerintah Kab. Merangin
+1199,163,5505,C,2019,Pemerintah Kab. Kerinci
+1200,166,5506,CC,2019,Pemerintah Kab. Sarolangun
+1201,168,5507,C,2019,Pemerintah Kab. Tebo
+1202,165,5508,C,2019,Pemerintah Kab. Muaro Jambi
+1203,169,5571,B,2019,Pemerintah Kota Jambi
+1204,117,5600,B,2019,Pemerintah Provinsi Sumatera Selatan
+1205,173,5601,CC,2019,Pemerintah Kab. Musi Banyuasin
+1206,172,5603,B,2019,Pemerintah Kab. Muara Enim
+1207,171,5604,C,2019,Pemerintah Kab. Lahat
+1208,174,5605,C,2019,Pemerintah Kab. Musi Rawas
+1209,175,5606,C,2019,Pemerintah Kab. Ogan Komering Ilir
+1210,170,5607,CC,2019,Pemerintah Kab. Banyuasin
+1211,178,5671,B,2019,Pemerintah Kota Palembang
+1212,177,5672,C,2019,Pemerintah Kota Pagar Alam
+1213,176,5673,CC,2019,Pemerintah Kota Lubuk Linggau
+1214,101,5700,B,2019,Pemerintah Provinsi Kep. Bangka Belitung
+1215,179,5701,B,2019,Pemerintah Kab. Bangka
+1216,183,5702,C,2019,Pemerintah Kab. Belitung
+1217,180,5703,C,2019,Pemerintah Kab. Bangka Barat
+1218,182,5704,B,2019,Pemerintah Kab. Bangka Tengah
+1219,181,5705,B,2019,Pemerintah Kab. Bangka Selatan
+1220,184,5706,CC,2019,Pemerintah Kab. Belitung Timur
+1221,185,5771,B,2019,Pemerintah Kota Pangkal Pinang
+1222,88,5800,B,2019,Pemerintah Provinsi Bengkulu
+1223,188,5801,C,2019,Pemerintah Kab. Bengkulu Utara
+1224,186,5802,C,2019,Pemerintah Kab. Bengkulu Selatan
+1225,193,5803,C,2019,Pemerintah Kab. Rejang Lebong
+1226,189,5804,C,2019,Pemerintah Kab. Kaur
+1227,194,5805,C,2019,Pemerintah Kab. Seluma
+1228,192,5806,C,2019,Pemerintah Kab. Mukomuko
+1229,190,5807,C,2019,Pemerintah Kab. Kepahiang
+1230,191,5808,C,2019,Pemerintah Kab. Lebong
+1231,187,5809,C,2019,Pemerintah Kab. Bengkulu Tengah
+1232,195,5871,CC,2019,Pemerintah Kota Bengkulu
+1233,103,5900,B,2019,Pemerintah Provinsi Lampung
+1234,232,5901,C,2019,Pemerintah Kab. Lampung Selatan
+1235,234,5903,C,2019,Pemerintah Kab. Lampung Utara
+1236,231,5904,CC,2019,Pemerintah Kab. Lampung Barat
+1237,238,5905,C,2019,Pemerintah Kab. Tulang Bawang
+1238,237,5906,CC,2019,Pemerintah Kab. Tanggamus
+1239,239,5907,CC,2019,Pemerintah Kab. Way Kanan
+1240,233,5908,C,2019,Pemerintah Kab. Lampung Timur
+1241,235,5909,C,2019,Pemerintah Kab. Pesawaran
+1242,236,5911,CC,2019,Pemerintah Kab. Pringsewu
+1243,241,5971,B,2019,Pemerintah Kota Metro
+1244,240,5972,B,2019,Pemerintah Kota Bandar Lampung
+1245,90,6000,BB,2019,Pemerintah Provinsi DKI Jakarta
+1246,93,6100,BB,2019,Pemerintah Provinsi Jawa Barat
+1247,207,6101,B,2019,Pemerintah Kab. Bogor
+1248,219,6102,B,2019,Pemerintah Kab. Sukabumi
+1249,209,6103,CC,2019,Pemerintah Kab. Cianjur
+1250,206,6104,CC,2019,Pemerintah Kab. Bekasi
+1251,213,6105,B,2019,Pemerintah Kab. Karawang
+1252,217,6106,B,2019,Pemerintah Kab. Purwakarta
+1253,218,6107,CC,2019,Pemerintah Kab. Subang
+1254,204,6108,B,2019,Pemerintah Kab. Bandung
+1255,220,6109,B,2019,Pemerintah Kab. Sumedang
+1256,211,6110,B,2019,Pemerintah Kab. Garut
+1257,221,6111,CC,2019,Pemerintah Kab. Tasikmalaya
+1258,208,6112,CC,2019,Pemerintah Kab. Ciamis
+1259,210,6113,CC,2019,Pemerintah Kab. Cirebon
+1260,214,6114,CC,2019,Pemerintah Kab. Kuningan
+1261,212,6115,CC,2019,Pemerintah Kab. Indramayu
+1262,215,6116,CC,2019,Pemerintah Kab. Majalengka
+1263,205,6117,CC,2019,Pemerintah Kab. Bandung Barat
+1264,216,6118,CC,2019,Pemerintah Kab. Pangandaran
+1265,222,6171,BB,2019,Pemerintah Kota Bandung
+1266,225,6172,B,2019,Pemerintah Kota Bogor
+1267,229,6173,B,2019,Pemerintah Kota Sukabumi
+1268,227,6174,B,2019,Pemerintah Kota Cirebon
+1269,224,6175,B,2019,Pemerintah Kota Bekasi
+1270,228,6176,B,2019,Pemerintah Kota Depok
+1271,226,6177,B,2019,Pemerintah Kota Cimahi
+1272,230,6178,CC,2019,Pemerintah Kota Tasikmalaya
+1273,223,6179,CC,2019,Pemerintah Kota Banjar
+1274,87,6200,B,2019,Pemerintah Provinsi Banten
+1275,198,6201,CC,2019,Pemerintah Kab. Serang
+1276,197,6202,CC,2019,Pemerintah Kab. Pandeglang
+1277,196,6203,CC,2019,Pemerintah Kab. Lebak
+1278,199,6204,CC,2019,Pemerintah Kab. Tangerang
+1279,202,6271,B,2019,Pemerintah Kota Tangerang
+1280,200,6272,C,2019,Pemerintah Kota Cilegon
+1281,201,6273,CC,2019,Pemerintah Kota Serang
+1282,203,6274,B,2019,Pemerintah Kota Tangerang Selatan
+1283,89,6300,A,2019,Pemerintah Provinsi D.I. Yogyakarta
+1284,369,6301,BB,2019,Pemerintah Kab. Bantul
+1285,372,6302,BB,2019,Pemerintah Kab. Sleman
+1286,370,6303,B,2019,Pemerintah Kab. Gunungkidul
+1287,371,6304,BB,2019,Pemerintah Kab. Kulon Progo
+1288,373,6371,BB,2019,Pemerintah Kota Yogyakarta
+1289,94,6400,BB,2019,Pemerintah Provinsi Jawa Tengah
+1290,356,6401,B,2019,Pemerintah Kab. Semarang
+1291,346,6402,B,2019,Pemerintah Kab. Kendal
+1292,341,6403,B,2019,Pemerintah Kab. Demak
+1293,342,6404,B,2019,Pemerintah Kab. Grobogan
+1294,351,6405,B,2019,Pemerintah Kab. Pekalongan
+1295,336,6406,B,2019,Pemerintah Kab. Batang
+1296,359,6407,B,2019,Pemerintah Kab. Tegal
+1297,339,6408,CC,2019,Pemerintah Kab. Brebes
+1298,350,6409,B,2019,Pemerintah Kab. Pati
+1299,348,6410,CC,2019,Pemerintah Kab. Kudus
+1300,352,6411,B,2019,Pemerintah Kab. Pemalang
+1301,343,6412,CC,2019,Pemerintah Kab. Jepara
+1302,355,6413,CC,2019,Pemerintah Kab. Rembang
+1303,337,6414,CC,2019,Pemerintah Kab. Blora
+1304,335,6415,B,2019,Pemerintah Kab. Banyumas
+1305,340,6416,B,2019,Pemerintah Kab. Cilacap
+1306,353,6417,B,2019,Pemerintah Kab. Purbalingga
+1307,334,6418,B,2019,Pemerintah Kab. Banjarnegara
+1308,349,6419,B,2019,Pemerintah Kab. Magelang
+1309,360,6420,B,2019,Pemerintah Kab. Temanggung
+1310,362,6421,CC,2019,Pemerintah Kab. Wonosobo
+1311,354,6422,B,2019,Pemerintah Kab. Purworejo
+1312,345,6423,CC,2019,Pemerintah Kab. Kebumen
+1313,347,6424,CC,2019,Pemerintah Kab. Klaten
+1314,338,6425,CC,2019,Pemerintah Kab. Boyolali
+1315,357,6426,B,2019,Pemerintah Kab. Sragen
+1316,358,6427,CC,2019,Pemerintah Kab. Sukoharjo
+1317,344,6428,CC,2019,Pemerintah Kab. Karanganyar
+1318,361,6429,B,2019,Pemerintah Kab. Wonogiri
+1319,366,6471,B,2019,Pemerintah Kota Semarang
+1320,365,6472,B,2019,Pemerintah Kota Salatiga
+1321,364,6473,B,2019,Pemerintah Kota Pekalongan
+1322,368,6474,B,2019,Pemerintah Kota Tegal
+1323,363,6475,B,2019,Pemerintah Kota Magelang
+1324,367,6476,B,2019,Pemerintah Kota Surakarta
+1325,95,6500,BB,2019,Pemerintah Provinsi Jawa Timur
+1326,247,6501,B,2019,Pemerintah Kab. Gresik
+1327,256,6502,B,2019,Pemerintah Kab. Mojokerto
+1328,265,6503,B,2019,Pemerintah Kab. Sidoarjo
+1329,249,6504,CC,2019,Pemerintah Kab. Jombang
+1330,264,6505,CC,2019,Pemerintah Kab. Sampang
+1331,260,6506,B,2019,Pemerintah Kab. Pamekasan
+1332,267,6507,B,2019,Pemerintah Kab. Sumenep
+1333,242,6508,CC,2019,Pemerintah Kab. Bangkalan
+1334,246,6509,B,2019,Pemerintah Kab. Bondowoso
+1335,266,6510,B,2019,Pemerintah Kab. Situbondo
+1336,243,6511,BB,2019,Pemerintah Kab. Banyuwangi
+1337,248,6512,CC,2019,Pemerintah Kab. Jember
+1338,255,6513,B,2019,Pemerintah Kab. Malang
+1339,261,6514,B,2019,Pemerintah Kab. Pasuruan
+1340,263,6515,B,2019,Pemerintah Kab. Probolinggo
+1341,252,6516,CC,2019,Pemerintah Kab. Lumajang
+1342,250,6517,B,2019,Pemerintah Kab. Kediri
+1343,270,6518,B,2019,Pemerintah Kab. Tulungagung
+1344,257,6519,B,2019,Pemerintah Kab. Nganjuk
+1345,268,6520,B,2019,Pemerintah Kab. Trenggalek
+1346,244,6521,CC,2019,Pemerintah Kab. Blitar
+1347,253,6522,B,2019,Pemerintah Kab. Madiun
+1348,258,6523,B,2019,Pemerintah Kab. Ngawi
+1349,254,6524,CC,2019,Pemerintah Kab. Magetan
+1350,262,6525,B,2019,Pemerintah Kab. Ponorogo
+1351,259,6526,B,2019,Pemerintah Kab. Pacitan
+1352,245,6527,CC,2019,Pemerintah Kab. Bojonegoro
+1353,269,6528,B,2019,Pemerintah Kab. Tuban
+1354,251,6529,B,2019,Pemerintah Kab. Lamongan
+1355,279,6571,BB,2019,Pemerintah Kota Surabaya
+1356,276,6572,B,2019,Pemerintah Kota Mojokerto
+1357,275,6573,B,2019,Pemerintah Kota Malang
+1358,277,6574,B,2019,Pemerintah Kota Pasuruan
+1359,278,6575,B,2019,Pemerintah Kota Probolinggo
+1360,272,6576,B,2019,Pemerintah Kota Blitar
+1361,273,6577,CC,2019,Pemerintah Kota Kediri
+1362,274,6578,B,2019,Pemerintah Kota Madiun
+1363,271,6579,B,2019,Pemerintah Kota Batu
+1364,96,6600,B,2019,Pemerintah Provinsi Kalimantan Barat
+1365,305,6601,B,2019,Pemerintah Kab. Sambas
+1366,306,6602,C,2019,Pemerintah Kab. Sanggau
+1367,308,6603,C,2019,Pemerintah Kab. Sintang
+1368,304,6604,B,2019,Pemerintah Kab. Mempawah
+1369,299,6605,CC,2019,Pemerintah Kab. Kapuas Hulu
+1370,302,6608,B,2019,Pemerintah Kab. Landak
+1371,303,6609,C,2019,Pemerintah Kab. Melawi
+1372,307,6610,CC,2019,Pemerintah Kab. Sekadau
+1373,301,6611,CC,2019,Pemerintah Kab. Kubu Raya
+1374,300,6612,C,2019,Pemerintah Kab. Kayong Utara
+1375,309,6671,B,2019,Pemerintah Kota Pontianak
+1376,310,6672,CC,2019,Pemerintah Kota Singkawang
+1377,98,6700,CC,2019,Pemerintah Provinsi Kalimantan Tengah
+1378,311,6708,CC,2019,Pemerintah Kab. Lamandau
+1379,312,6712,B,2019,Pemerintah Kab. Seruyan
+1380,313,6771,CC,2019,Pemerintah Kota Palangka Raya
+1381,97,6800,B,2019,Pemerintah Provinsi Kalimantan Selatan
+1382,320,6802,CC,2019,Pemerintah Kab. Tanah Laut
+1383,321,6803,CC,2019,Pemerintah Kab. Tapin
+1384,316,6804,B,2019,Pemerintah Kab. Hulu Sungai Selatan
+1385,315,6806,CC,2019,Pemerintah Kab. Barito Kuala
+1386,318,6808,CC,2019,Pemerintah Kab. Kotabaru
+1387,317,6809,CC,2019,Pemerintah Kab. Hulu Sungai Utara
+1388,319,6810,CC,2019,Pemerintah Kab. Tanah Bumbu
+1389,314,6811,CC,2019,Pemerintah Kab. Balangan
+1390,323,6871,B,2019,Pemerintah Kota Banjarmasin
+1391,322,6872,B,2019,Pemerintah Kota Banjarbaru
+1392,99,6900,B,2019,Pemerintah Provinsi Kalimantan Timur
+1393,326,6901,B,2019,Pemerintah Kab. Kutai Kartanegara
+1394,327,6902,CC,2019,Pemerintah Kab. Paser
+1395,324,6904,C,2019,Pemerintah Kab. Berau
+1396,325,6907,CC,2019,Pemerintah Kab. Kutai Barat
+1397,328,6910,B,2019,Pemerintah Kab. Penajam Paser Utara
+1398,331,6971,B,2019,Pemerintah Kota Samarinda
+1399,329,6972,B,2019,Pemerintah Kota Balikpapan
+1400,330,6973,B,2019,Pemerintah Kota Bontang
+1401,115,7000,CC,2019,Pemerintah Provinsi Sulawesi Utara
+1402,374,7002,C,2019,Pemerintah Kab. Bolaang Mongondow
+1403,379,7006,C,2019,Pemerintah Kab. Minahasa Utara
+1404,377,7008,CC,2019,Pemerintah Kab. Siau Tagulandang Biaro
+1405,378,7009,C,2019,Pemerintah Kab. Minahasa Tenggara
+1406,375,7012,CC,2019,Pemerintah Kab. Bolaang Mongondow Selatan
+1407,376,7013,C,2019,Pemerintah Kab. Bolaang Mongondow Timur
+1408,382,7071,B,2019,Pemerintah Kota Manado
+1409,380,7072,CC,2019,Pemerintah Kota Bitung
+1410,383,7073,CC,2019,Pemerintah Kota Tomohon
+1411,381,7074,CC,2019,Pemerintah Kota KotaMobagu
+1412,91,7100,B,2019,Pemerintah Provinsi Gorontalo
+1413,411,7101,B,2019,Pemerintah Kab. Gorontalo
+1414,409,7102,CC,2019,Pemerintah Kab. Boalemo
+1415,412,7103,B,2019,Pemerintah Kab. Pohuwato
+1416,410,7104,CC,2019,Pemerintah Kab. Bone Bolango
+1417,413,7171,B,2019,Pemerintah Kota Gorontalo
+1418,113,7200,B,2019,Pemerintah Provinsi Sulawesi Tengah
+1419,384,7204,B,2019,Pemerintah Kab. Banggai
+1420,385,7271,CC,2019,Pemerintah Kota Palu
+1421,112,7300,B,2019,Pemerintah Provinsi Sulawesi Selatan
+1422,390,7301,CC,2019,Pemerintah Kab. Pinrang
+1423,387,7302,CC,2019,Pemerintah Kab. Gowa
+1424,393,7303,B,2019,Pemerintah Kab. Wajo
+1425,389,7307,C,2019,Pemerintah Kab. Maros
+1426,391,7310,CC,2019,Pemerintah Kab. Sinjai
+1427,386,7311,CC,2019,Pemerintah Kab. Bulukumba
+1428,392,7315,CC,2019,Pemerintah Kab. Takalar
+1429,388,7322,CC,2019,Pemerintah Kab. Luwu Utara
+1430,394,7371,B,2019,Pemerintah Kota Makassar
+1431,396,7372,CC,2019,Pemerintah Kota Parepare
+1432,395,7373,CC,2019,Pemerintah Kota Palopo
+1433,114,7400,B,2019,Pemerintah Provinsi Sulawesi Tenggara
+1434,398,7402,C,2019,Pemerintah Kab. Buton
+1435,406,7403,C,2019,Pemerintah Kab. Muna
+1436,401,7404,C,2019,Pemerintah Kab. Kolaka
+1437,404,7405,C,2019,Pemerintah Kab. Konawe Selatan
+1438,403,7406,C,2019,Pemerintah Kab. Kolaka Utara
+1439,397,7407,C,2019,Pemerintah Kab. Bombana
+1440,400,7410,CC,2019,Pemerintah Kab. Buton Utara
+1441,405,7411,CC,2019,Pemerintah Kab. Konawe Utara
+1442,402,7412,C,2019,Pemerintah Kab. Kolaka Timur
+1443,399,7415,C,2019,Pemerintah Kab. Buton Tengah
+1444,408,7471,B,2019,Pemerintah Kota Kendari
+1445,407,7472,C,2019,Pemerintah Kota Baubau
+1446,86,7500,B,2019,Pemerintah Provinsi Bali
+1447,282,7501,CC,2019,Pemerintah Kab. Buleleng
+1448,284,7502,CC,2019,Pemerintah Kab. Jembrana
+1449,286,7503,CC,2019,Pemerintah Kab. Klungkung
+1450,283,7504,B,2019,Pemerintah Kab. Gianyar
+1451,285,7505,C,2019,Pemerintah Kab. Karangasem
+1452,281,7506,CC,2019,Pemerintah Kab. Bangli
+1453,280,7507,BB,2019,Pemerintah Kab. Badung
+1454,287,7508,B,2019,Pemerintah Kab. Tabanan
+1455,288,7571,B,2019,Pemerintah Kota Denpasar
+1456,106,7600,B,2019,Pemerintah Provinsi NTB
+1457,289,7601,B,2019,Pemerintah Kab. Lombok Barat
+1458,290,7602,CC,2019,Pemerintah Kab. Lombok Tengah
+1459,292,7605,CC,2019,Pemerintah Kab. Sumbawa
+1460,293,7607,CC,2019,Pemerintah Kab. Sumbawa Barat
+1461,291,7608,CC,2019,Pemerintah Kab. Lombok Utara
+1462,294,7671,B,2019,Pemerintah Kota Mataram
+1463,107,7700,B,2019,Pemerintah Provinsi NTT
+1464,295,7702,C,2019,Pemerintah Kab. Belu
+1465,296,7707,C,2019,Pemerintah Kab. Flores Timur
+1466,297,7709,C,2019,Pemerintah Kab. Ngada
+1467,298,7771,B,2019,Pemerintah Kota Kupang
+1468,104,7800,CC,2019,Pemerintah Provinsi Maluku
+1469,417,7801,C,2019,Pemerintah Kab. Maluku Tengah
+1470,105,7900,CC,2019,Pemerintah Provinsi Maluku Utara
+1471,418,7971,CC,2019,Pemerintah Kota Ternate
+1472,108,8000,B,2019,Pemerintah Provinsi Papua
+1473,102,8100,B,2019,Pemerintah Provinsi Kepulauan Riau
+1474,155,8102,CC,2019,Pemerintah Kab. Karimun
+1475,158,8103,CC,2019,Pemerintah Kab. Natuna
+1476,157,8104,C,2019,Pemerintah Kab. Lingga
+1477,156,8105,C,2019,Pemerintah Kab. Kepulauan Anambas
+1478,159,8171,C,2019,Pemerintah Kota Batam
+1479,160,8172,B,2019,Pemerintah Kota Tanjungpinang
+1480,109,8200,B,2019,Pemerintah Provinsi Papua Barat
+1481,419,8201,CC,2019,Pemerintah Kab. Sorong
+1482,420,8206,B,2019,Pemerintah Kab. Teluk Wondama
+1483,111,8300,B,2019,Pemerintah Provinsi Sulawesi Barat
+1484,415,8301,C,2019,Pemerintah Kab. Pasangkayu
+1485,416,8304,B,2019,Pemerintah Kab. Polewali Mandar
+1486,414,8306,C,2019,Pemerintah Kab. Mamuju Tengah
+1487,100,8400,B,2019,Pemerintah Provinsi Kalimantan Utara
+1488,332,8401,B,2019,Pemerintah Kab. Bulungan
+1489,333,8402,CC,2019,Pemerintah Kab. Malinau
